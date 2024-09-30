@@ -1,0 +1,4358 @@
+[
+    {
+        "name": "South Georgia",
+        "alpha2": "GS",
+        "alpha3": "SGS",
+        "numeric": "239",
+        "continent": "Antarctica",
+        "capital": "King Edward Point",
+        "timezone": "Atlantic\/South_Georgia",
+        "phone": "500",
+        "alternate_names": {
+            "0": "South Georgia",
+            "1": "South Georgia and the South Sandwich Islands",
+            "4": "GS"
+        }
+    },
+    {
+        "name": "Grenada",
+        "alpha2": "GD",
+        "alpha3": "GRD",
+        "numeric": "308",
+        "continent": "North America",
+        "capital": "St. George's",
+        "timezone": "America\/Grenada",
+        "phone": "1473",
+        "alternate_names": {
+            "0": "Grenada",
+            "4": "GD"
+        }
+    },
+    {
+        "name": "Switzerland",
+        "alpha2": "CH",
+        "alpha3": "CHE",
+        "numeric": "756",
+        "continent": "Europe",
+        "capital": "Bern",
+        "timezone": "Europe\/Zurich",
+        "phone": "41",
+        "alternate_names": [
+            "Switzerland",
+            "Swiss Confederation",
+            "Conf\u00e9d\u00e9ration suisse",
+            "Suisse",
+            "Schweizerische Eidgenossenschaft",
+            "Schweiz",
+            "Confederazione Svizzera",
+            "Svizzera",
+            "Confederaziun svizra",
+            "Svizra",
+            "CH"
+        ]
+    },
+    {
+        "name": "Sierra Leone",
+        "alpha2": "SL",
+        "alpha3": "SLE",
+        "numeric": "694",
+        "continent": "Africa",
+        "capital": "Freetown",
+        "timezone": "Africa\/Freetown",
+        "phone": "232",
+        "alternate_names": {
+            "0": "Sierra Leone",
+            "1": "Republic of Sierra Leone",
+            "4": "SL"
+        }
+    },
+    {
+        "name": "Hungary",
+        "alpha2": "HU",
+        "alpha3": "HUN",
+        "numeric": "348",
+        "continent": "Europe",
+        "capital": "Budapest",
+        "timezone": "Europe\/Budapest",
+        "phone": "36",
+        "alternate_names": {
+            "0": "Hungary",
+            "2": "Magyarorsz\u00e1g",
+            "4": "HU"
+        }
+    },
+    {
+        "name": "Taiwan",
+        "alpha2": "TW",
+        "alpha3": "TWN",
+        "numeric": "158",
+        "continent": "Asia",
+        "capital": "Taipei",
+        "timezone": "Asia\/Taipei",
+        "phone": "886",
+        "alternate_names": {
+            "0": "Taiwan",
+            "1": "Republic of China (Taiwan)",
+            "2": "\u4e2d\u83ef\u6c11\u570b",
+            "3": "\u53f0\u7063",
+            "4": "TW",
+            "5": "T\u00e1iw\u0101n",
+            "6": "Republic of China",
+            "8": "Zh\u014dnghu\u00e1 M\u00edngu\u00f3",
+            "9": "Chinese Taipei"
+        }
+    },
+    {
+        "name": "Wallis and Futuna",
+        "alpha2": "WF",
+        "alpha3": "WLF",
+        "numeric": "876",
+        "continent": "Oceania",
+        "capital": "Mata-Utu",
+        "timezone": "Pacific\/Wallis",
+        "phone": "681",
+        "alternate_names": [
+            "Wallis and Futuna",
+            "Territory of the Wallis and Futuna Islands",
+            "Territoire des \u00eeles Wallis et Futuna",
+            "Wallis et Futuna",
+            "WF"
+        ]
+    },
+    {
+        "name": "Barbados",
+        "alpha2": "BB",
+        "alpha3": "BRB",
+        "numeric": "052",
+        "continent": "North America",
+        "capital": "Bridgetown",
+        "timezone": "America\/Barbados",
+        "phone": "1246",
+        "alternate_names": {
+            "0": "Barbados",
+            "4": "BB"
+        }
+    },
+    {
+        "name": "Pitcairn Islands",
+        "alpha2": "PN",
+        "alpha3": "PCN",
+        "numeric": "612",
+        "continent": "Oceania",
+        "capital": "Adamstown",
+        "timezone": "Pacific\/Pitcairn",
+        "phone": "64",
+        "alternate_names": {
+            "0": "Pitcairn Islands",
+            "1": "Pitcairn Group of Islands",
+            "4": "PN",
+            "5": "Pitcairn",
+            "6": "Pitcairn Henderson Ducie and Oeno Islands"
+        }
+    },
+    {
+        "name": "Ivory Coast",
+        "alpha2": "CI",
+        "alpha3": "CIV",
+        "numeric": "384",
+        "continent": "Africa",
+        "capital": "Yamoussoukro",
+        "timezone": "Africa\/Abidjan",
+        "phone": "225",
+        "alternate_names": [
+            "Ivory Coast",
+            "Republic of C\u00f4te d'Ivoire",
+            "R\u00e9publique de C\u00f4te d'Ivoire",
+            "C\u00f4te d'Ivoire",
+            "CI"
+        ]
+    },
+    {
+        "name": "Tunisia",
+        "alpha2": "TN",
+        "alpha3": "TUN",
+        "numeric": "788",
+        "continent": "Africa",
+        "capital": "Tunis",
+        "timezone": "Africa\/Tunis",
+        "phone": "216",
+        "alternate_names": [
+            "Tunisia",
+            "Tunisian Republic",
+            "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u062a\u0648\u0646\u0633\u064a\u0629",
+            "\u062a\u0648\u0646\u0633",
+            "TN",
+            "Republic of Tunisia",
+            "al-Jumh\u016briyyah at-T\u016bnisiyyah"
+        ]
+    },
+    {
+        "name": "Italy",
+        "alpha2": "IT",
+        "alpha3": "ITA",
+        "numeric": "380",
+        "continent": "Europe",
+        "capital": "Rome",
+        "timezone": "Europe\/Rome",
+        "phone": "39",
+        "alternate_names": [
+            "Italy",
+            "Italian Republic",
+            "Repubblica italiana",
+            "Italia",
+            "IT"
+        ]
+    },
+    {
+        "name": "Benin",
+        "alpha2": "BJ",
+        "alpha3": "BEN",
+        "numeric": "204",
+        "continent": "Africa",
+        "capital": "Porto-Novo",
+        "timezone": "Africa\/Porto-Novo",
+        "phone": "229",
+        "alternate_names": [
+            "Benin",
+            "Republic of Benin",
+            "R\u00e9publique du B\u00e9nin",
+            "B\u00e9nin",
+            "BJ"
+        ]
+    },
+    {
+        "name": "Indonesia",
+        "alpha2": "ID",
+        "alpha3": "IDN",
+        "numeric": "360",
+        "continent": "Asia",
+        "capital": "Jakarta",
+        "timezone": "Asia\/Jakarta",
+        "phone": "62",
+        "alternate_names": {
+            "0": "Indonesia",
+            "1": "Republic of Indonesia",
+            "2": "Republik Indonesia",
+            "4": "ID"
+        }
+    },
+    {
+        "name": "Cape Verde",
+        "alpha2": "CV",
+        "alpha3": "CPV",
+        "numeric": "132",
+        "continent": "Africa",
+        "capital": "Praia",
+        "timezone": "Atlantic\/Cape_Verde",
+        "phone": "238",
+        "alternate_names": [
+            "Cape Verde",
+            "Republic of Cabo Verde",
+            "Rep\u00fablica de Cabo Verde",
+            "Cabo Verde",
+            "CV"
+        ]
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "alpha2": "KN",
+        "alpha3": "KNA",
+        "numeric": "659",
+        "continent": "North America",
+        "capital": "Basseterre",
+        "timezone": "America\/St_Kitts",
+        "phone": "1869",
+        "alternate_names": {
+            "0": "Saint Kitts and Nevis",
+            "1": "Federation of Saint Christopher and Nevis",
+            "4": "KN"
+        }
+    },
+    {
+        "name": "Laos",
+        "alpha2": "LA",
+        "alpha3": "LAO",
+        "numeric": "418",
+        "continent": "Asia",
+        "capital": "Vientiane",
+        "timezone": "Asia\/Vientiane",
+        "phone": "856",
+        "alternate_names": {
+            "0": "Laos",
+            "1": "Lao People's Democratic Republic",
+            "2": "\u0eaa\u0eb2\u0e97\u0eb2\u0ea5\u0eb0\u0e99\u0eb0 \u0e8a\u0eb2\u0e97\u0eb4\u0e9b\u0eb0\u0ec4\u0e95 \u0e84\u0ebb\u0e99\u0ea5\u0eb2\u0ea7 \u0e82\u0ead\u0e87",
+            "3": "\u0eaa\u0e9b\u0e9b\u0ea5\u0eb2\u0ea7",
+            "4": "LA",
+            "5": "Lao",
+            "7": "Sathalanalat Paxathipatai Paxaxon Lao"
+        }
+    },
+    {
+        "name": "Caribbean Netherlands",
+        "alpha2": "BQ",
+        "alpha3": "BES",
+        "numeric": "535",
+        "continent": "North America",
+        "capital": "Kralendijk",
+        "timezone": "America\/Kralendijk",
+        "phone": "599",
+        "alternate_names": {
+            "0": "Caribbean Netherlands",
+            "1": "Bonaire, Sint Eustatius and Saba",
+            "2": "Bonaire, Sint Eustatius en Saba",
+            "3": "Caribisch Nederland",
+            "4": "Boneiru, Sint Eustatius y Saba",
+            "6": "BES islands"
+        }
+    },
+    {
+        "name": "Uganda",
+        "alpha2": "UG",
+        "alpha3": "UGA",
+        "numeric": "800",
+        "continent": "Africa",
+        "capital": "Kampala",
+        "timezone": "Africa\/Kampala",
+        "phone": "256",
+        "alternate_names": {
+            "0": "Uganda",
+            "1": "Republic of Uganda",
+            "6": "UG",
+            "8": "Jamhuri ya Uganda"
+        }
+    },
+    {
+        "name": "Andorra",
+        "alpha2": "AD",
+        "alpha3": "AND",
+        "numeric": "020",
+        "continent": "Europe",
+        "capital": "Andorra la Vella",
+        "timezone": "Europe\/Andorra",
+        "phone": "376",
+        "alternate_names": {
+            "0": "Andorra",
+            "1": "Principality of Andorra",
+            "2": "Principat d'Andorra",
+            "4": "AD"
+        }
+    },
+    {
+        "name": "Burundi",
+        "alpha2": "BI",
+        "alpha3": "BDI",
+        "numeric": "108",
+        "continent": "Africa",
+        "capital": "Gitega",
+        "timezone": "Africa\/Bujumbura",
+        "phone": "257",
+        "alternate_names": {
+            "0": "Burundi",
+            "1": "Republic of Burundi",
+            "2": "R\u00e9publique du Burundi",
+            "4": "Republika y'Uburundi ",
+            "5": "Uburundi",
+            "6": "BI",
+            "8": "Republika y'Uburundi"
+        }
+    },
+    {
+        "name": "South Africa",
+        "alpha2": "ZA",
+        "alpha3": "ZAF",
+        "numeric": "710",
+        "continent": "Africa",
+        "capital": "Pretoria",
+        "timezone": "Africa\/Johannesburg",
+        "phone": "27",
+        "alternate_names": {
+            "0": "South Africa",
+            "1": "Republic of South Africa",
+            "2": "Republiek van Suid-Afrika",
+            "6": "IRiphabliki yeSewula Afrika",
+            "7": "Sewula Afrika",
+            "8": "Rephaboliki ya Afrika-Borwa ",
+            "9": "Afrika-Borwa",
+            "10": "Rephaboliki ya Afrika Borwa",
+            "11": "Afrika Borwa",
+            "12": "IRiphabhulikhi yeNingizimu Afrika",
+            "13": "Ningizimu Afrika",
+            "14": "Rephaboliki ya Aforika Borwa",
+            "15": "Aforika Borwa",
+            "16": "Riphabliki ra Afrika Dzonga",
+            "17": "Afrika Dzonga",
+            "18": "Riphabu\u1e3diki ya Afurika Tshipembe",
+            "19": "Afurika Tshipembe",
+            "20": "IRiphabliki yaseMzantsi Afrika",
+            "21": "Mzantsi Afrika",
+            "22": "IRiphabliki yaseNingizimu Afrika",
+            "24": "ZA",
+            "25": "RSA",
+            "26": "Suid-Afrika"
+        }
+    },
+    {
+        "name": "France",
+        "alpha2": "FR",
+        "alpha3": "FRA",
+        "numeric": "250",
+        "continent": "Europe",
+        "capital": "Paris",
+        "timezone": "Europe\/Paris",
+        "phone": "33",
+        "alternate_names": {
+            "0": "France",
+            "1": "French Republic",
+            "2": "R\u00e9publique fran\u00e7aise",
+            "4": "FR"
+        }
+    },
+    {
+        "name": "Libya",
+        "alpha2": "LY",
+        "alpha3": "LBY",
+        "numeric": "434",
+        "continent": "Africa",
+        "capital": "Tripoli",
+        "timezone": "Africa\/Tripoli",
+        "phone": "218",
+        "alternate_names": {
+            "0": "Libya",
+            "1": "State of Libya",
+            "2": "\u0627\u0644\u062f\u0648\u0644\u0629 \u0644\u064a\u0628\u064a\u0627",
+            "3": "\u200f\u0644\u064a\u0628\u064a\u0627",
+            "4": "LY",
+            "6": "Dawlat Libya"
+        }
+    },
+    {
+        "name": "Mexico",
+        "alpha2": "MX",
+        "alpha3": "MEX",
+        "numeric": "484",
+        "continent": "North America",
+        "capital": "Mexico City",
+        "timezone": "America\/Bahia_Banderas",
+        "phone": "52",
+        "alternate_names": [
+            "Mexico",
+            "United Mexican States",
+            "Estados Unidos Mexicanos",
+            "M\u00e9xico",
+            "MX",
+            "Mexicanos"
+        ]
+    },
+    {
+        "name": "Gabon",
+        "alpha2": "GA",
+        "alpha3": "GAB",
+        "numeric": "266",
+        "continent": "Africa",
+        "capital": "Libreville",
+        "timezone": "Africa\/Libreville",
+        "phone": "241",
+        "alternate_names": {
+            "0": "Gabon",
+            "1": "Gabonese Republic",
+            "2": "R\u00e9publique gabonaise",
+            "4": "GA",
+            "6": "R\u00e9publique Gabonaise"
+        }
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "alpha2": "MP",
+        "alpha3": "MNP",
+        "numeric": "580",
+        "continent": "Oceania",
+        "capital": "Saipan",
+        "timezone": "Pacific\/Saipan",
+        "phone": "1670",
+        "alternate_names": {
+            "0": "Northern Mariana Islands",
+            "1": "Commonwealth of the Northern Mariana Islands",
+            "4": "Sankattan Siha Na Islas Mari\u00e5nas",
+            "5": "Na Islas Mari\u00e5nas",
+            "8": "MP"
+        }
+    },
+    {
+        "name": "North Macedonia",
+        "alpha2": "MK",
+        "alpha3": "MKD",
+        "numeric": "807",
+        "continent": "Europe",
+        "capital": "Skopje",
+        "timezone": "Europe\/Skopje",
+        "phone": "389",
+        "alternate_names": {
+            "0": "North Macedonia",
+            "1": "Republic of North Macedonia",
+            "2": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
+            "3": "\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
+            "4": "MK",
+            "5": "The former Yugoslav Republic of Macedonia",
+            "7": "Macedonia, The Former Yugoslav Republic of"
+        }
+    },
+    {
+        "name": "China",
+        "alpha2": "CN",
+        "alpha3": "CHN",
+        "numeric": "156",
+        "continent": "Asia",
+        "capital": "Beijing",
+        "timezone": "Asia\/Shanghai",
+        "phone": "86",
+        "alternate_names": {
+            "0": "China",
+            "1": "People's Republic of China",
+            "2": "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd",
+            "3": "\u4e2d\u56fd",
+            "4": "CN",
+            "5": "Zh\u014dnggu\u00f3",
+            "6": "Zhongguo",
+            "7": "Zhonghua",
+            "10": "Zh\u014dnghu\u00e1 R\u00e9nm\u00edn G\u00f2ngh\u00e9gu\u00f3"
+        }
+    },
+    {
+        "name": "Yemen",
+        "alpha2": "YE",
+        "alpha3": "YEM",
+        "numeric": "887",
+        "continent": "Asia",
+        "capital": "Sana'a",
+        "timezone": "Asia\/Aden",
+        "phone": "967",
+        "alternate_names": [
+            "Yemen",
+            "Republic of Yemen",
+            "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u064a\u0645\u0646\u064a\u0629",
+            "\u0627\u0644\u064a\u064e\u0645\u064e\u0646",
+            "YE",
+            "Yemeni Republic",
+            "al-Jumh\u016briyyah al-Yamaniyyah"
+        ]
+    },
+    {
+        "name": "Saint Barth\u00e9lemy",
+        "alpha2": "BL",
+        "alpha3": "BLM",
+        "numeric": "652",
+        "continent": "North America",
+        "capital": "Gustavia",
+        "timezone": "America\/St_Barthelemy",
+        "phone": "590",
+        "alternate_names": [
+            "Saint Barth\u00e9lemy",
+            "Collectivity of Saint Barth\u00e9lemy",
+            "Collectivit\u00e9 de Saint-Barth\u00e9lemy",
+            "Saint-Barth\u00e9lemy",
+            "BL",
+            "St. Barthelemy"
+        ]
+    },
+    {
+        "name": "Guernsey",
+        "alpha2": "GG",
+        "alpha3": "GGY",
+        "numeric": "831",
+        "continent": "Europe",
+        "capital": "St. Peter Port",
+        "timezone": "Europe\/Guernsey",
+        "phone": "44",
+        "alternate_names": {
+            "0": "Guernsey",
+            "1": "Bailiwick of Guernsey",
+            "4": "Bailliage de Guernesey",
+            "5": "Guernesey",
+            "6": "Dg\u00e8rn\u00e9siais",
+            "8": "GG"
+        }
+    },
+    {
+        "name": "Solomon Islands",
+        "alpha2": "SB",
+        "alpha3": "SLB",
+        "numeric": "090",
+        "continent": "Oceania",
+        "capital": "Honiara",
+        "timezone": "Pacific\/Guadalcanal",
+        "phone": "677",
+        "alternate_names": {
+            "0": "Solomon Islands",
+            "4": "SB"
+        }
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "alpha2": "SJ",
+        "alpha3": "SJM",
+        "numeric": "744",
+        "continent": "Europe",
+        "capital": "Longyearbyen",
+        "timezone": "Arctic\/Longyearbyen",
+        "phone": "4779",
+        "alternate_names": {
+            "0": "Svalbard and Jan Mayen",
+            "1": "Svalbard og Jan Mayen",
+            "4": "SJ",
+            "5": "Svalbard and Jan Mayen Islands"
+        }
+    },
+    {
+        "name": "Faroe Islands",
+        "alpha2": "FO",
+        "alpha3": "FRO",
+        "numeric": "234",
+        "continent": "Europe",
+        "capital": "T\u00f3rshavn",
+        "timezone": "Atlantic\/Faroe",
+        "phone": "298",
+        "alternate_names": {
+            "0": "Faroe Islands",
+            "2": "F\u00e6r\u00f8erne",
+            "4": "F\u00f8royar",
+            "6": "FO"
+        }
+    },
+    {
+        "name": "Uzbekistan",
+        "alpha2": "UZ",
+        "alpha3": "UZB",
+        "numeric": "860",
+        "continent": "Asia",
+        "capital": "Tashkent",
+        "timezone": "Asia\/Samarkand",
+        "phone": "998",
+        "alternate_names": {
+            "0": "Uzbekistan",
+            "1": "Republic of Uzbekistan",
+            "2": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d",
+            "3": "\u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d",
+            "4": "O'zbekiston Respublikasi",
+            "5": "O\u2018zbekiston",
+            "6": "UZ",
+            "8": "O\u2018zbekiston Respublikasi",
+            "9": "\u040e\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u043e\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u0438"
+        }
+    },
+    {
+        "name": "Egypt",
+        "alpha2": "EG",
+        "alpha3": "EGY",
+        "numeric": "818",
+        "continent": "Africa",
+        "capital": "Cairo",
+        "timezone": "Africa\/Cairo",
+        "phone": "20",
+        "alternate_names": [
+            "Egypt",
+            "Arab Republic of Egypt",
+            "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0645\u0635\u0631 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+            "\u0645\u0635\u0631",
+            "EG"
+        ]
+    },
+    {
+        "name": "Senegal",
+        "alpha2": "SN",
+        "alpha3": "SEN",
+        "numeric": "686",
+        "continent": "Africa",
+        "capital": "Dakar",
+        "timezone": "Africa\/Dakar",
+        "phone": "221",
+        "alternate_names": [
+            "Senegal",
+            "Republic of Senegal",
+            "R\u00e9publique du S\u00e9n\u00e9gal",
+            "S\u00e9n\u00e9gal",
+            "SN"
+        ]
+    },
+    {
+        "name": "Sri Lanka",
+        "alpha2": "LK",
+        "alpha3": "LKA",
+        "numeric": "144",
+        "continent": "Asia",
+        "capital": "Sri Jayawardenepura Kotte",
+        "timezone": "Asia\/Colombo",
+        "phone": "94",
+        "alternate_names": [
+            "Sri Lanka",
+            "Democratic Socialist Republic of Sri Lanka",
+            "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0db4\u0dca\u200d\u0dbb\u0da2\u0dcf\u0dad\u0dcf\u0db1\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a \u0dc3\u0db8\u0dcf\u0da2\u0dc0\u0dcf\u0daf\u0dd3 \u0da2\u0db1\u0dbb\u0da2\u0dba",
+            "\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0",
+            "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8 \u0b9a\u0ba9\u0ba8\u0bbe\u0baf\u0b95 \u0b9a\u0bcb\u0b9a\u0bb2\u0bbf\u0b9a\u0b95\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1",
+            "\u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+            "LK",
+            "ila\u1e45kai"
+        ]
+    },
+    {
+        "name": "Palestine",
+        "alpha2": "PS",
+        "alpha3": "PSE",
+        "numeric": "275",
+        "continent": "Asia",
+        "capital": "Ramallah",
+        "timezone": "Asia\/Gaza",
+        "phone": "970",
+        "alternate_names": {
+            "0": "Palestine",
+            "1": "State of Palestine",
+            "2": "\u062f\u0648\u0644\u0629 \u0641\u0644\u0633\u0637\u064a\u0646",
+            "3": "\u0641\u0644\u0633\u0637\u064a\u0646",
+            "4": "PS",
+            "5": "Palestine, State of",
+            "7": "Dawlat Filas\u1e6din"
+        }
+    },
+    {
+        "name": "Bangladesh",
+        "alpha2": "BD",
+        "alpha3": "BGD",
+        "numeric": "050",
+        "continent": "Asia",
+        "capital": "Dhaka",
+        "timezone": "Asia\/Dhaka",
+        "phone": "880",
+        "alternate_names": {
+            "0": "Bangladesh",
+            "1": "People's Republic of Bangladesh",
+            "2": "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6 \u0997\u09a3\u09aa\u09cd\u09b0\u099c\u09be\u09a4\u09a8\u09cd\u09a4\u09cd\u09b0\u09c0",
+            "3": "\u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
+            "4": "BD",
+            "6": "G\u00f4n\u00f4pr\u00f4jat\u00f4ntri Bangladesh"
+        }
+    },
+    {
+        "name": "Peru",
+        "alpha2": "PE",
+        "alpha3": "PER",
+        "numeric": "604",
+        "continent": "South America",
+        "capital": "Lima",
+        "timezone": "America\/Lima",
+        "phone": "51",
+        "alternate_names": {
+            "0": "Peru",
+            "1": "Republic of Peru",
+            "2": "Piruw Suyu",
+            "3": "Piruw",
+            "4": "Piruw Ripuwlika",
+            "6": "Rep\u00fablica del Per\u00fa",
+            "7": "Per\u00fa",
+            "8": "PE"
+        }
+    },
+    {
+        "name": "Singapore",
+        "alpha2": "SG",
+        "alpha3": "SGP",
+        "numeric": "702",
+        "continent": "Asia",
+        "capital": "Singapore",
+        "timezone": "Asia\/Singapore",
+        "phone": "65",
+        "alternate_names": {
+            "0": "Singapore",
+            "1": "Republic of Singapore",
+            "4": "\u65b0\u52a0\u5761\u5171\u548c\u56fd",
+            "5": "\u65b0\u52a0\u5761",
+            "6": "Republik Singapura",
+            "7": "Singapura",
+            "8": "\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1",
+            "9": "\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd",
+            "10": "SG"
+        }
+    },
+    {
+        "name": "Turkey",
+        "alpha2": "TR",
+        "alpha3": "TUR",
+        "numeric": "792",
+        "continent": "Europe",
+        "capital": "Ankara",
+        "timezone": "Europe\/Istanbul",
+        "phone": "90",
+        "alternate_names": [
+            "Turkey",
+            "Republic of Turkey",
+            "T\u00fcrkiye Cumhuriyeti",
+            "T\u00fcrkiye",
+            "TR",
+            "Turkiye"
+        ]
+    },
+    {
+        "name": "Afghanistan",
+        "alpha2": "AF",
+        "alpha3": "AFG",
+        "numeric": "004",
+        "continent": "Asia",
+        "capital": "Kabul",
+        "timezone": "Asia\/Kabul",
+        "phone": "93",
+        "alternate_names": {
+            "0": "Afghanistan",
+            "1": "Islamic Republic of Afghanistan",
+            "2": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+            "3": "\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+            "4": "\u062f \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 \u0627\u0633\u0644\u0627\u0645\u064a \u062c\u0645\u0647\u0648\u0631\u06cc\u062a",
+            "6": "Owganystan Yslam Respublikasy",
+            "7": "Owganystan",
+            "8": "AF",
+            "9": "Af\u0121\u0101nist\u0101n"
+        }
+    },
+    {
+        "name": "Aruba",
+        "alpha2": "AW",
+        "alpha3": "ABW",
+        "numeric": "533",
+        "continent": "North America",
+        "capital": "Oranjestad",
+        "timezone": "America\/Aruba",
+        "phone": "297",
+        "alternate_names": {
+            "0": "Aruba",
+            "6": "AW"
+        }
+    },
+    {
+        "name": "Cook Islands",
+        "alpha2": "CK",
+        "alpha3": "COK",
+        "numeric": "184",
+        "continent": "Oceania",
+        "capital": "Avarua",
+        "timezone": "Pacific\/Rarotonga",
+        "phone": "682",
+        "alternate_names": {
+            "0": "Cook Islands",
+            "4": "K\u016bki '\u0100irani",
+            "6": "CK"
+        }
+    },
+    {
+        "name": "United Kingdom",
+        "alpha2": "GB",
+        "alpha3": "GBR",
+        "numeric": "826",
+        "continent": "Europe",
+        "capital": "London",
+        "timezone": "Europe\/London",
+        "phone": "44",
+        "alternate_names": {
+            "0": "United Kingdom",
+            "1": "United Kingdom of Great Britain and Northern Ireland",
+            "4": "GB",
+            "5": "UK",
+            "6": "Great Britain"
+        }
+    },
+    {
+        "name": "Zambia",
+        "alpha2": "ZM",
+        "alpha3": "ZMB",
+        "numeric": "894",
+        "continent": "Africa",
+        "capital": "Lusaka",
+        "timezone": "Africa\/Lusaka",
+        "phone": "260",
+        "alternate_names": {
+            "0": "Zambia",
+            "1": "Republic of Zambia",
+            "4": "ZM"
+        }
+    },
+    {
+        "name": "Finland",
+        "alpha2": "FI",
+        "alpha3": "FIN",
+        "numeric": "246",
+        "continent": "Europe",
+        "capital": "Helsinki",
+        "timezone": "Europe\/Helsinki",
+        "phone": "358",
+        "alternate_names": {
+            "0": "Finland",
+            "1": "Republic of Finland",
+            "2": "Suomen tasavalta",
+            "3": "Suomi",
+            "4": "Republiken Finland",
+            "6": "FI"
+        }
+    },
+    {
+        "name": "Niger",
+        "alpha2": "NE",
+        "alpha3": "NER",
+        "numeric": "562",
+        "continent": "Africa",
+        "capital": "Niamey",
+        "timezone": "Africa\/Niamey",
+        "phone": "227",
+        "alternate_names": {
+            "0": "Niger",
+            "1": "Republic of Niger",
+            "2": "R\u00e9publique du Niger",
+            "4": "NE",
+            "5": "Nijar"
+        }
+    },
+    {
+        "name": "Christmas Island",
+        "alpha2": "CX",
+        "alpha3": "CXR",
+        "numeric": "162",
+        "continent": "Asia",
+        "capital": "Flying Fish Cove",
+        "timezone": "Indian\/Christmas",
+        "phone": "61",
+        "alternate_names": {
+            "0": "Christmas Island",
+            "1": "Territory of Christmas Island",
+            "4": "CX"
+        }
+    },
+    {
+        "name": "Tokelau",
+        "alpha2": "TK",
+        "alpha3": "TKL",
+        "numeric": "772",
+        "continent": "Oceania",
+        "capital": "Fakaofo",
+        "timezone": "Pacific\/Fakaofo",
+        "phone": "690",
+        "alternate_names": {
+            "0": "Tokelau",
+            "8": "TK"
+        }
+    },
+    {
+        "name": "Guinea-Bissau",
+        "alpha2": "GW",
+        "alpha3": "GNB",
+        "numeric": "624",
+        "continent": "Africa",
+        "capital": "Bissau",
+        "timezone": "Africa\/Bissau",
+        "phone": "245",
+        "alternate_names": {
+            "0": "Guinea-Bissau",
+            "1": "Republic of Guinea-Bissau",
+            "2": "Rep\u00fablica da Guin\u00e9-Bissau",
+            "3": "Guin\u00e9-Bissau",
+            "6": "GW"
+        }
+    },
+    {
+        "name": "Azerbaijan",
+        "alpha2": "AZ",
+        "alpha3": "AZE",
+        "numeric": "031",
+        "continent": "Europe",
+        "capital": "Baku",
+        "timezone": "Asia\/Baku",
+        "phone": "994",
+        "alternate_names": [
+            "Azerbaijan",
+            "Republic of Azerbaijan",
+            "Az\u0259rbaycan Respublikas\u0131",
+            "Az\u0259rbaycan",
+            "AZ"
+        ]
+    },
+    {
+        "name": "R\u00e9union",
+        "alpha2": "RE",
+        "alpha3": "REU",
+        "numeric": "638",
+        "continent": "Africa",
+        "capital": "Saint-Denis",
+        "timezone": "Indian\/Reunion",
+        "phone": "262",
+        "alternate_names": [
+            "R\u00e9union",
+            "R\u00e9union Island",
+            "Ile de la R\u00e9union",
+            "La R\u00e9union",
+            "RE",
+            "Reunion"
+        ]
+    },
+    {
+        "name": "Djibouti",
+        "alpha2": "DJ",
+        "alpha3": "DJI",
+        "numeric": "262",
+        "continent": "Africa",
+        "capital": "Djibouti",
+        "timezone": "Africa\/Djibouti",
+        "phone": "253",
+        "alternate_names": {
+            "0": "Djibouti",
+            "1": "Republic of Djibouti",
+            "2": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u062c\u064a\u0628\u0648\u062a\u064a",
+            "3": "\u062c\u064a\u0628\u0648\u062a\u064a\u200e",
+            "4": "R\u00e9publique de Djibouti",
+            "6": "DJ",
+            "7": "Jabuuti",
+            "8": "Gabuuti",
+            "11": "Gabuutih Ummuuno",
+            "12": "Jamhuuriyadda Jabuuti"
+        }
+    },
+    {
+        "name": "North Korea",
+        "alpha2": "KP",
+        "alpha3": "PRK",
+        "numeric": "408",
+        "continent": "Asia",
+        "capital": "Pyongyang",
+        "timezone": "Asia\/Pyongyang",
+        "phone": "850",
+        "alternate_names": {
+            "0": "North Korea",
+            "1": "Democratic People's Republic of Korea",
+            "2": "\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d",
+            "3": "\uc870\uc120",
+            "4": "KP",
+            "6": "DPRK",
+            "8": "Chos\u014fn Minjuju\u016di Inmin Konghwaguk",
+            "9": "Korea, Democratic People's Republic of",
+            "10": "\ubd81\ud55c",
+            "11": "\ubd81\uc870\uc120"
+        }
+    },
+    {
+        "name": "Mauritius",
+        "alpha2": "MU",
+        "alpha3": "MUS",
+        "numeric": "480",
+        "continent": "Africa",
+        "capital": "Port Louis",
+        "timezone": "Indian\/Mauritius",
+        "phone": "230",
+        "alternate_names": {
+            "0": "Mauritius",
+            "1": "Republic of Mauritius",
+            "4": "R\u00e9publique de Maurice",
+            "5": "Maurice",
+            "6": "Republik Moris",
+            "7": "Moris",
+            "8": "MU"
+        }
+    },
+    {
+        "name": "Montserrat",
+        "alpha2": "MS",
+        "alpha3": "MSR",
+        "numeric": "500",
+        "continent": "North America",
+        "capital": "Plymouth",
+        "timezone": "America\/Montserrat",
+        "phone": "1664",
+        "alternate_names": {
+            "0": "Montserrat",
+            "4": "MS"
+        }
+    },
+    {
+        "name": "United States Virgin Islands",
+        "alpha2": "VI",
+        "alpha3": "VIR",
+        "numeric": "850",
+        "continent": "North America",
+        "capital": "Charlotte Amalie",
+        "timezone": "America\/St_Thomas",
+        "phone": "1340",
+        "alternate_names": {
+            "0": "United States Virgin Islands",
+            "1": "Virgin Islands of the United States",
+            "4": "VI",
+            "5": "Virgin Islands, U.S."
+        }
+    },
+    {
+        "name": "Colombia",
+        "alpha2": "CO",
+        "alpha3": "COL",
+        "numeric": "170",
+        "continent": "South America",
+        "capital": "Bogot\u00e1",
+        "timezone": "America\/Bogota",
+        "phone": "57",
+        "alternate_names": {
+            "0": "Colombia",
+            "1": "Republic of Colombia",
+            "2": "Rep\u00fablica de Colombia",
+            "4": "CO"
+        }
+    },
+    {
+        "name": "Greece",
+        "alpha2": "GR",
+        "alpha3": "GRC",
+        "numeric": "300",
+        "continent": "Europe",
+        "capital": "Athens",
+        "timezone": "Europe\/Athens",
+        "phone": "30",
+        "alternate_names": [
+            "Greece",
+            "Hellenic Republic",
+            "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1",
+            "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+            "GR",
+            "Ell\u00e1da"
+        ]
+    },
+    {
+        "name": "Croatia",
+        "alpha2": "HR",
+        "alpha3": "HRV",
+        "numeric": "191",
+        "continent": "Europe",
+        "capital": "Zagreb",
+        "timezone": "Europe\/Zagreb",
+        "phone": "385",
+        "alternate_names": [
+            "Croatia",
+            "Republic of Croatia",
+            "Republika Hrvatska",
+            "Hrvatska",
+            "HR"
+        ]
+    },
+    {
+        "name": "Morocco",
+        "alpha2": "MA",
+        "alpha3": "MAR",
+        "numeric": "504",
+        "continent": "Africa",
+        "capital": "Rabat",
+        "timezone": "Africa\/Casablanca",
+        "phone": "212",
+        "alternate_names": {
+            "0": "Morocco",
+            "1": "Kingdom of Morocco",
+            "2": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0645\u063a\u0631\u0628\u064a\u0629",
+            "3": "\u0627\u0644\u0645\u063a\u0631\u0628",
+            "4": "\u2d5c\u2d30\u2d33\u2d4d\u2d37\u2d49\u2d5c \u2d4f \u2d4d\u2d4e\u2d56\u2d54\u2d49\u2d31",
+            "5": "\u2d4d\u2d4e\u2d30\u2d56\u2d54\u2d49\u2d31",
+            "6": "MA",
+            "8": "Al-Mamlakah al-Ma\u0121ribiyah"
+        }
+    },
+    {
+        "name": "Algeria",
+        "alpha2": "DZ",
+        "alpha3": "DZA",
+        "numeric": "012",
+        "continent": "Africa",
+        "capital": "Algiers",
+        "timezone": "Africa\/Algiers",
+        "phone": "213",
+        "alternate_names": [
+            "Algeria",
+            "People's Democratic Republic of Algeria",
+            "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u062f\u064a\u0645\u0642\u0631\u0627\u0637\u064a\u0629 \u0627\u0644\u0634\u0639\u0628\u064a\u0629 \u0627\u0644\u062c\u0632\u0627\u0626\u0631\u064a\u0629",
+            "\u0627\u0644\u062c\u0632\u0627\u0626\u0631",
+            "DZ",
+            "Dzayer",
+            "Alg\u00e9rie"
+        ]
+    },
+    {
+        "name": "Antarctica",
+        "alpha2": "AQ",
+        "alpha3": "ATA",
+        "numeric": "010",
+        "continent": "Antarctica",
+        "capital": "Unknown",
+        "timezone": "Antarctica\/Casey",
+        "phone": "Unknown",
+        "alternate_names": {
+            "0": "Antarctica",
+            "2": "AQ"
+        }
+    },
+    {
+        "name": "Netherlands",
+        "alpha2": "NL",
+        "alpha3": "NLD",
+        "numeric": "528",
+        "continent": "Europe",
+        "capital": "Amsterdam",
+        "timezone": "Europe\/Amsterdam",
+        "phone": "31",
+        "alternate_names": {
+            "0": "Netherlands",
+            "1": "Kingdom of the Netherlands",
+            "2": "Koninkrijk der Nederlanden",
+            "3": "Nederland",
+            "4": "NL",
+            "5": "Holland",
+            "7": "The Netherlands"
+        }
+    },
+    {
+        "name": "Sudan",
+        "alpha2": "SD",
+        "alpha3": "SDN",
+        "numeric": "729",
+        "continent": "Africa",
+        "capital": "Khartoum",
+        "timezone": "Africa\/Khartoum",
+        "phone": "249",
+        "alternate_names": {
+            "0": "Sudan",
+            "1": "Republic of the Sudan",
+            "2": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+            "3": "\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+            "6": "SD",
+            "8": "Jumh\u016br\u012byat as-S\u016bd\u0101n"
+        }
+    },
+    {
+        "name": "Fiji",
+        "alpha2": "FJ",
+        "alpha3": "FJI",
+        "numeric": "242",
+        "continent": "Oceania",
+        "capital": "Suva",
+        "timezone": "Pacific\/Fiji",
+        "phone": "679",
+        "alternate_names": {
+            "0": "Fiji",
+            "1": "Republic of Fiji",
+            "4": "Matanitu Tugalala o Viti",
+            "5": "Viti",
+            "6": "\u0930\u093f\u092a\u092c\u094d\u0932\u093f\u0915 \u0911\u092b \u092b\u0940\u091c\u0940",
+            "7": "\u092b\u093f\u091c\u0940",
+            "8": "FJ",
+            "11": "Matanitu ko Viti",
+            "12": "Fij\u012b Ga\u1e47ar\u0101jya"
+        }
+    },
+    {
+        "name": "Liechtenstein",
+        "alpha2": "LI",
+        "alpha3": "LIE",
+        "numeric": "438",
+        "continent": "Europe",
+        "capital": "Vaduz",
+        "timezone": "Europe\/Vaduz",
+        "phone": "423",
+        "alternate_names": {
+            "0": "Liechtenstein",
+            "1": "Principality of Liechtenstein",
+            "2": "F\u00fcrstentum Liechtenstein",
+            "4": "LI"
+        }
+    },
+    {
+        "name": "Nepal",
+        "alpha2": "NP",
+        "alpha3": "NPL",
+        "numeric": "524",
+        "continent": "Asia",
+        "capital": "Kathmandu",
+        "timezone": "Asia\/Kathmandu",
+        "phone": "977",
+        "alternate_names": {
+            "0": "Nepal",
+            "1": "Federal Democratic Republic of Nepal",
+            "2": "\u0928\u0947\u092a\u093e\u0932 \u0938\u0902\u0918\u0940\u092f \u0932\u094b\u0915\u0924\u093e\u0928\u094d\u0924\u094d\u0930\u093f\u0915 \u0917\u0923\u0924\u0928\u094d\u0924\u094d\u0930",
+            "3": "\u0928\u0947\u092a\u093e\u0932",
+            "4": "NP",
+            "6": "Lokt\u0101ntrik Ganatantra Nep\u0101l"
+        }
+    },
+    {
+        "name": "Puerto Rico",
+        "alpha2": "PR",
+        "alpha3": "PRI",
+        "numeric": "630",
+        "continent": "North America",
+        "capital": "San Juan",
+        "timezone": "America\/Puerto_Rico",
+        "phone": "1787939",
+        "alternate_names": {
+            "0": "Puerto Rico",
+            "1": "Commonwealth of Puerto Rico",
+            "4": "Estado Libre Asociado de Puerto Rico",
+            "6": "PR"
+        }
+    },
+    {
+        "name": "Georgia",
+        "alpha2": "GE",
+        "alpha3": "GEO",
+        "numeric": "268",
+        "continent": "Asia",
+        "capital": "Tbilisi",
+        "timezone": "Asia\/Tbilisi",
+        "phone": "995",
+        "alternate_names": {
+            "0": "Georgia",
+            "2": "\u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd",
+            "4": "GE",
+            "5": "Sakartvelo"
+        }
+    },
+    {
+        "name": "Pakistan",
+        "alpha2": "PK",
+        "alpha3": "PAK",
+        "numeric": "586",
+        "continent": "Asia",
+        "capital": "Islamabad",
+        "timezone": "Asia\/Karachi",
+        "phone": "92",
+        "alternate_names": {
+            "0": "Pakistan",
+            "1": "Islamic Republic of Pakistan",
+            "4": "\u0627\u0633\u0644\u0627\u0645\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c2 \u067e\u0627\u0643\u0633\u062a\u0627\u0646",
+            "5": "\u067e\u0627\u0643\u0633\u062a\u0627\u0646",
+            "6": "PK",
+            "7": "P\u0101kist\u0101n",
+            "9": "Isl\u0101m\u012b Jumh\u016briya'eh P\u0101kist\u0101n"
+        }
+    },
+    {
+        "name": "Monaco",
+        "alpha2": "MC",
+        "alpha3": "MCO",
+        "numeric": "492",
+        "continent": "Europe",
+        "capital": "Monaco",
+        "timezone": "Europe\/Monaco",
+        "phone": "377",
+        "alternate_names": {
+            "0": "Monaco",
+            "1": "Principality of Monaco",
+            "2": "Principaut\u00e9 de Monaco",
+            "4": "MC"
+        }
+    },
+    {
+        "name": "Botswana",
+        "alpha2": "BW",
+        "alpha3": "BWA",
+        "numeric": "072",
+        "continent": "Africa",
+        "capital": "Gaborone",
+        "timezone": "Africa\/Gaborone",
+        "phone": "267",
+        "alternate_names": {
+            "0": "Botswana",
+            "1": "Republic of Botswana",
+            "4": "Lefatshe la Botswana",
+            "6": "BW"
+        }
+    },
+    {
+        "name": "Lebanon",
+        "alpha2": "LB",
+        "alpha3": "LBN",
+        "numeric": "422",
+        "continent": "Asia",
+        "capital": "Beirut",
+        "timezone": "Asia\/Beirut",
+        "phone": "961",
+        "alternate_names": {
+            "0": "Lebanon",
+            "1": "Lebanese Republic",
+            "2": "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0644\u0628\u0646\u0627\u0646\u064a\u0629",
+            "3": "\u0644\u0628\u0646\u0627\u0646",
+            "4": "R\u00e9publique libanaise",
+            "5": "Liban",
+            "6": "LB",
+            "8": "Al-Jumh\u016br\u012byah Al-Libn\u0101n\u012byah"
+        }
+    },
+    {
+        "name": "Papua New Guinea",
+        "alpha2": "PG",
+        "alpha3": "PNG",
+        "numeric": "598",
+        "continent": "Oceania",
+        "capital": "Port Moresby",
+        "timezone": "Pacific\/Bougainville",
+        "phone": "675",
+        "alternate_names": {
+            "0": "Papua New Guinea",
+            "1": "Independent State of Papua New Guinea",
+            "4": "Independen Stet bilong Papua Niugini",
+            "5": "Papua Niu Gini",
+            "7": "Papua Niugini",
+            "8": "PG"
+        }
+    },
+    {
+        "name": "Mayotte",
+        "alpha2": "YT",
+        "alpha3": "MYT",
+        "numeric": "175",
+        "continent": "Africa",
+        "capital": "Mamoudzou",
+        "timezone": "Indian\/Mayotte",
+        "phone": "262",
+        "alternate_names": {
+            "0": "Mayotte",
+            "1": "Department of Mayotte",
+            "2": "D\u00e9partement de Mayotte",
+            "4": "YT"
+        }
+    },
+    {
+        "name": "Dominican Republic",
+        "alpha2": "DO",
+        "alpha3": "DOM",
+        "numeric": "214",
+        "continent": "North America",
+        "capital": "Santo Domingo",
+        "timezone": "America\/Santo_Domingo",
+        "phone": "1809829849",
+        "alternate_names": {
+            "0": "Dominican Republic",
+            "2": "Rep\u00fablica Dominicana",
+            "4": "DO"
+        }
+    },
+    {
+        "name": "Norfolk Island",
+        "alpha2": "NF",
+        "alpha3": "NFK",
+        "numeric": "574",
+        "continent": "Oceania",
+        "capital": "Kingston",
+        "timezone": "Pacific\/Norfolk",
+        "phone": "672",
+        "alternate_names": {
+            "0": "Norfolk Island",
+            "1": "Territory of Norfolk Island",
+            "4": "Teratri of Norf'k Ailen",
+            "5": "Norf'k Ailen",
+            "6": "NF"
+        }
+    },
+    {
+        "name": "Bouvet Island",
+        "alpha2": "BV",
+        "alpha3": "BVT",
+        "numeric": "074",
+        "continent": "Antarctica",
+        "capital": "Unknown",
+        "timezone": "Africa\/Algiers",
+        "phone": "47",
+        "alternate_names": {
+            "0": "Bouvet Island",
+            "2": "Bouvet\u00f8ya",
+            "4": "BV",
+            "6": "Bouvet-\u00f8ya"
+        }
+    },
+    {
+        "name": "Qatar",
+        "alpha2": "QA",
+        "alpha3": "QAT",
+        "numeric": "634",
+        "continent": "Asia",
+        "capital": "Doha",
+        "timezone": "Asia\/Qatar",
+        "phone": "974",
+        "alternate_names": {
+            "0": "Qatar",
+            "1": "State of Qatar",
+            "2": "\u062f\u0648\u0644\u0629 \u0642\u0637\u0631",
+            "3": "\u0642\u0637\u0631",
+            "4": "QA",
+            "6": "Dawlat Qa\u1e6dar"
+        }
+    },
+    {
+        "name": "Madagascar",
+        "alpha2": "MG",
+        "alpha3": "MDG",
+        "numeric": "450",
+        "continent": "Africa",
+        "capital": "Antananarivo",
+        "timezone": "Indian\/Antananarivo",
+        "phone": "261",
+        "alternate_names": {
+            "0": "Madagascar",
+            "1": "Republic of Madagascar",
+            "2": "R\u00e9publique de Madagascar",
+            "4": "Repoblikan'i Madagasikara",
+            "5": "Madagasikara",
+            "6": "MG"
+        }
+    },
+    {
+        "name": "India",
+        "alpha2": "IN",
+        "alpha3": "IND",
+        "numeric": "356",
+        "continent": "Asia",
+        "capital": "New Delhi",
+        "timezone": "Asia\/Kolkata",
+        "phone": "91",
+        "alternate_names": {
+            "0": "India",
+            "1": "Republic of India",
+            "4": "\u092d\u093e\u0930\u0924 \u0917\u0923\u0930\u093e\u091c\u094d\u092f",
+            "5": "\u092d\u093e\u0930\u0924",
+            "6": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0b95\u0bcd \u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bb0\u0b9a\u0bc1",
+            "7": "\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0bbe",
+            "8": "IN",
+            "9": "Bh\u0101rat",
+            "11": "Bharat Ganrajya"
+        }
+    },
+    {
+        "name": "Syria",
+        "alpha2": "SY",
+        "alpha3": "SYR",
+        "numeric": "760",
+        "continent": "Asia",
+        "capital": "Damascus",
+        "timezone": "Asia\/Damascus",
+        "phone": "963",
+        "alternate_names": {
+            "0": "Syria",
+            "1": "Syrian Arab Republic",
+            "2": "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0648\u0631\u064a\u0629",
+            "3": "\u0633\u0648\u0631\u064a\u0627",
+            "4": "SY",
+            "6": "Al-Jumh\u016br\u012byah Al-\u02bbArab\u012byah As-S\u016br\u012byah"
+        }
+    },
+    {
+        "name": "Montenegro",
+        "alpha2": "ME",
+        "alpha3": "MNE",
+        "numeric": "499",
+        "continent": "Europe",
+        "capital": "Podgorica",
+        "timezone": "Europe\/Podgorica",
+        "phone": "382",
+        "alternate_names": {
+            "0": "Montenegro",
+            "2": "\u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430",
+            "4": "ME",
+            "5": "Crna Gora"
+        }
+    },
+    {
+        "name": "Eswatini",
+        "alpha2": "SZ",
+        "alpha3": "SWZ",
+        "numeric": "748",
+        "continent": "Africa",
+        "capital": "Mbabane",
+        "timezone": "Africa\/Mbabane",
+        "phone": "268",
+        "alternate_names": {
+            "0": "Eswatini",
+            "1": "Kingdom of Eswatini",
+            "4": "Umbuso weSwatini",
+            "5": "eSwatini",
+            "6": "SZ",
+            "7": "Swaziland",
+            "8": "weSwatini",
+            "9": "Swatini",
+            "10": "Ngwane"
+        }
+    },
+    {
+        "name": "Paraguay",
+        "alpha2": "PY",
+        "alpha3": "PRY",
+        "numeric": "600",
+        "continent": "South America",
+        "capital": "Asunci\u00f3n",
+        "timezone": "America\/Asuncion",
+        "phone": "595",
+        "alternate_names": {
+            "0": "Paraguay",
+            "1": "Republic of Paraguay",
+            "2": "Tet\u00e3 Paragu\u00e1i",
+            "3": "Paragu\u00e1i",
+            "4": "Rep\u00fablica de Paraguay",
+            "6": "PY",
+            "8": "Rep\u00fablica del Paraguay"
+        }
+    },
+    {
+        "name": "El Salvador",
+        "alpha2": "SV",
+        "alpha3": "SLV",
+        "numeric": "222",
+        "continent": "North America",
+        "capital": "San Salvador",
+        "timezone": "America\/El_Salvador",
+        "phone": "503",
+        "alternate_names": {
+            "0": "El Salvador",
+            "1": "Republic of El Salvador",
+            "2": "Rep\u00fablica de El Salvador",
+            "4": "SV"
+        }
+    },
+    {
+        "name": "Ukraine",
+        "alpha2": "UA",
+        "alpha3": "UKR",
+        "numeric": "804",
+        "continent": "Europe",
+        "capital": "Kyiv",
+        "timezone": "Europe\/Kyiv",
+        "phone": "380",
+        "alternate_names": {
+            "0": "Ukraine",
+            "2": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+            "4": "UA",
+            "5": "Ukrayina"
+        }
+    },
+    {
+        "name": "Isle of Man",
+        "alpha2": "IM",
+        "alpha3": "IMN",
+        "numeric": "833",
+        "continent": "Europe",
+        "capital": "Douglas",
+        "timezone": "Europe\/Isle_of_Man",
+        "phone": "44",
+        "alternate_names": {
+            "0": "Isle of Man",
+            "4": "Ellan Vannin or Mannin",
+            "5": "Mannin",
+            "6": "IM",
+            "7": "Ellan Vannin",
+            "8": "Mann"
+        }
+    },
+    {
+        "name": "Namibia",
+        "alpha2": "NA",
+        "alpha3": "NAM",
+        "numeric": "516",
+        "continent": "Africa",
+        "capital": "Windhoek",
+        "timezone": "Africa\/Windhoek",
+        "phone": "264",
+        "alternate_names": {
+            "0": "Namibia",
+            "1": "Republic of Namibia",
+            "2": "Republiek van Namibi\u00eb",
+            "3": "Namibi\u00eb",
+            "4": "Republik Namibia",
+            "18": "Lefatshe la Namibia",
+            "20": "NA"
+        }
+    },
+    {
+        "name": "United Arab Emirates",
+        "alpha2": "AE",
+        "alpha3": "ARE",
+        "numeric": "784",
+        "continent": "Asia",
+        "capital": "Abu Dhabi",
+        "timezone": "Asia\/Dubai",
+        "phone": "971",
+        "alternate_names": {
+            "0": "United Arab Emirates",
+            "2": "\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+            "3": "\u062f\u0648\u0644\u0629 \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0645\u062a\u062d\u062f\u0629",
+            "4": "AE",
+            "5": "UAE",
+            "6": "Emirates"
+        }
+    },
+    {
+        "name": "Bulgaria",
+        "alpha2": "BG",
+        "alpha3": "BGR",
+        "numeric": "100",
+        "continent": "Europe",
+        "capital": "Sofia",
+        "timezone": "Europe\/Sofia",
+        "phone": "359",
+        "alternate_names": [
+            "Bulgaria",
+            "Republic of Bulgaria",
+            "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+            "\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+            "BG"
+        ]
+    },
+    {
+        "name": "Greenland",
+        "alpha2": "GL",
+        "alpha3": "GRL",
+        "numeric": "304",
+        "continent": "North America",
+        "capital": "Nuuk",
+        "timezone": "America\/Danmarkshavn",
+        "phone": "299",
+        "alternate_names": {
+            "0": "Greenland",
+            "2": "Kalaallit Nunaat",
+            "4": "GL",
+            "5": "Gr\u00f8nland"
+        }
+    },
+    {
+        "name": "Germany",
+        "alpha2": "DE",
+        "alpha3": "DEU",
+        "numeric": "276",
+        "continent": "Europe",
+        "capital": "Berlin",
+        "timezone": "Europe\/Berlin",
+        "phone": "49",
+        "alternate_names": [
+            "Germany",
+            "Federal Republic of Germany",
+            "Bundesrepublik Deutschland",
+            "Deutschland",
+            "DE"
+        ]
+    },
+    {
+        "name": "Cambodia",
+        "alpha2": "KH",
+        "alpha3": "KHM",
+        "numeric": "116",
+        "continent": "Asia",
+        "capital": "Phnom Penh",
+        "timezone": "Asia\/Phnom_Penh",
+        "phone": "855",
+        "alternate_names": [
+            "Cambodia",
+            "Kingdom of Cambodia",
+            "\u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
+            "K\u00e2mp\u016dch\u00e9a",
+            "KH"
+        ]
+    },
+    {
+        "name": "Iraq",
+        "alpha2": "IQ",
+        "alpha3": "IRQ",
+        "numeric": "368",
+        "continent": "Asia",
+        "capital": "Baghdad",
+        "timezone": "Asia\/Baghdad",
+        "phone": "964",
+        "alternate_names": {
+            "0": "Iraq",
+            "1": "Republic of Iraq",
+            "2": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0627\u0642",
+            "3": "\u0627\u0644\u0639\u0631\u0627\u0642",
+            "4": "\u0729\u0718\u073c\u071b\u0722\u0735\u0710 \u0710\u071d\u073c\u072a\u0732\u0729",
+            "5": "\u0729\u0718\u073c\u071b\u0722\u0735\u0710",
+            "6": "\u06a9\u06c6\u0645\u0627\u0631\u06cc \u0639\u06ce\u0631\u0627\u0642",
+            "7": "\u06a9\u06c6\u0645\u0627\u0631\u06cc",
+            "8": "IQ",
+            "10": "Jumh\u016briyyat al-\u2018Ir\u0101q"
+        }
+    },
+    {
+        "name": "French Southern and Antarctic Lands",
+        "alpha2": "TF",
+        "alpha3": "ATF",
+        "numeric": "260",
+        "continent": "Antarctica",
+        "capital": "Port-aux-Fran\u00e7ais",
+        "timezone": "Indian\/Kerguelen",
+        "phone": "262",
+        "alternate_names": [
+            "French Southern and Antarctic Lands",
+            "Territory of the French Southern and Antarctic Lands",
+            "Territoire des Terres australes et antarctiques fran\u00e7aises",
+            "Terres australes et antarctiques fran\u00e7aises",
+            "TF",
+            "French Southern Territories"
+        ]
+    },
+    {
+        "name": "Sweden",
+        "alpha2": "SE",
+        "alpha3": "SWE",
+        "numeric": "752",
+        "continent": "Europe",
+        "capital": "Stockholm",
+        "timezone": "Europe\/Stockholm",
+        "phone": "46",
+        "alternate_names": [
+            "Sweden",
+            "Kingdom of Sweden",
+            "Konungariket Sverige",
+            "Sverige",
+            "SE"
+        ]
+    },
+    {
+        "name": "Cuba",
+        "alpha2": "CU",
+        "alpha3": "CUB",
+        "numeric": "192",
+        "continent": "North America",
+        "capital": "Havana",
+        "timezone": "America\/Havana",
+        "phone": "53",
+        "alternate_names": {
+            "0": "Cuba",
+            "1": "Republic of Cuba",
+            "2": "Rep\u00fablica de Cuba",
+            "4": "CU"
+        }
+    },
+    {
+        "name": "Kyrgyzstan",
+        "alpha2": "KG",
+        "alpha3": "KGZ",
+        "numeric": "417",
+        "continent": "Asia",
+        "capital": "Bishkek",
+        "timezone": "Asia\/Bishkek",
+        "phone": "996",
+        "alternate_names": {
+            "0": "Kyrgyzstan",
+            "1": "Kyrgyz Republic",
+            "2": "\u041a\u044b\u0440\u0433\u044b\u0437 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
+            "3": "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d",
+            "4": "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+            "5": "\u041a\u0438\u0440\u0433\u0438\u0437\u0438\u044f",
+            "6": "KG",
+            "10": "Kyrgyz Respublikasy"
+        }
+    },
+    {
+        "name": "Russia",
+        "alpha2": "RU",
+        "alpha3": "RUS",
+        "numeric": "643",
+        "continent": "Europe",
+        "capital": "Moscow",
+        "timezone": "Asia\/Anadyr",
+        "phone": "734589",
+        "alternate_names": [
+            "Russia",
+            "Russian Federation",
+            "\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
+            "\u0420\u043e\u0441\u0441\u0438\u044f",
+            "RU"
+        ]
+    },
+    {
+        "name": "Malaysia",
+        "alpha2": "MY",
+        "alpha3": "MYS",
+        "numeric": "458",
+        "continent": "Asia",
+        "capital": "Kuala Lumpur",
+        "timezone": "Asia\/Kuala_Lumpur",
+        "phone": "60",
+        "alternate_names": {
+            "0": "Malaysia",
+            "4": "\u0645\u0644\u064a\u0633\u064a\u0627",
+            "6": "MY"
+        }
+    },
+    {
+        "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "alpha2": "ST",
+        "alpha3": "STP",
+        "numeric": "678",
+        "continent": "Africa",
+        "capital": "S\u00e3o Tom\u00e9",
+        "timezone": "Africa\/Sao_Tome",
+        "phone": "239",
+        "alternate_names": {
+            "0": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+            "1": "Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+            "2": "Rep\u00fablica Democr\u00e1tica do S\u00e3o Tom\u00e9 e Pr\u00edncipe",
+            "3": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
+            "4": "ST",
+            "6": "Sao Tome and Principe",
+            "7": "Rep\u00fablica Democr\u00e1tica de S\u00e3o Tom\u00e9 e Pr\u00edncipe"
+        }
+    },
+    {
+        "name": "Cyprus",
+        "alpha2": "CY",
+        "alpha3": "CYP",
+        "numeric": "196",
+        "continent": "Europe",
+        "capital": "Nicosia",
+        "timezone": "Asia\/Famagusta",
+        "phone": "357",
+        "alternate_names": {
+            "0": "Cyprus",
+            "1": "Republic of Cyprus",
+            "2": "\u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03c4\u03b7\u03c2 \u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+            "3": "\u039a\u03cd\u03c0\u03c1\u03bf\u03c2",
+            "4": "K\u0131br\u0131s Cumhuriyeti",
+            "5": "K\u0131br\u0131s",
+            "6": "CY",
+            "7": "K\u00fdpros",
+            "10": "\u039a\u03c5\u03c0\u03c1\u03b9\u03b1\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"
+        }
+    },
+    {
+        "name": "Canada",
+        "alpha2": "CA",
+        "alpha3": "CAN",
+        "numeric": "124",
+        "continent": "North America",
+        "capital": "Ottawa",
+        "timezone": "America\/Atikokan",
+        "phone": "1",
+        "alternate_names": {
+            "0": "Canada",
+            "6": "CA"
+        }
+    },
+    {
+        "name": "Malawi",
+        "alpha2": "MW",
+        "alpha3": "MWI",
+        "numeric": "454",
+        "continent": "Africa",
+        "capital": "Lilongwe",
+        "timezone": "Africa\/Blantyre",
+        "phone": "265",
+        "alternate_names": {
+            "0": "Malawi",
+            "1": "Republic of Malawi",
+            "4": "Chalo cha Malawi, Dziko la Mala\u0175i",
+            "5": "Mala\u0175i",
+            "6": "MW"
+        }
+    },
+    {
+        "name": "Saudi Arabia",
+        "alpha2": "SA",
+        "alpha3": "SAU",
+        "numeric": "682",
+        "continent": "Asia",
+        "capital": "Riyadh",
+        "timezone": "Asia\/Riyadh",
+        "phone": "966",
+        "alternate_names": {
+            "0": "Saudi Arabia",
+            "1": "Kingdom of Saudi Arabia",
+            "2": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+            "3": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+            "4": "Saudi",
+            "5": "SA",
+            "7": "Al-Mamlakah al-\u2018Arabiyyah as-Su\u2018\u016bdiyyah"
+        }
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "alpha2": "BA",
+        "alpha3": "BIH",
+        "numeric": "070",
+        "continent": "Europe",
+        "capital": "Sarajevo",
+        "timezone": "Europe\/Sarajevo",
+        "phone": "387",
+        "alternate_names": {
+            "0": "Bosnia and Herzegovina",
+            "2": "Bosna i Hercegovina",
+            "6": "\u0411\u043e\u0441\u043d\u0430 \u0438 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430",
+            "8": "BA",
+            "9": "Bosnia-Herzegovina"
+        }
+    },
+    {
+        "name": "Ethiopia",
+        "alpha2": "ET",
+        "alpha3": "ETH",
+        "numeric": "231",
+        "continent": "Africa",
+        "capital": "Addis Ababa",
+        "timezone": "Africa\/Addis_Ababa",
+        "phone": "251",
+        "alternate_names": [
+            "Ethiopia",
+            "Federal Democratic Republic of Ethiopia",
+            "\u12e8\u12a2\u1275\u12ee\u1335\u12eb \u134c\u12f4\u122b\u120b\u12ca \u12f2\u121e\u12ad\u122b\u1232\u12eb\u12ca \u122a\u1350\u1265\u120a\u12ad",
+            "\u12a2\u1275\u12ee\u1335\u12eb",
+            "ET",
+            "\u02be\u012aty\u014d\u1e57\u1e57y\u0101"
+        ]
+    },
+    {
+        "name": "Spain",
+        "alpha2": "ES",
+        "alpha3": "ESP",
+        "numeric": "724",
+        "continent": "Europe",
+        "capital": "Madrid",
+        "timezone": "Africa\/Ceuta",
+        "phone": "34",
+        "alternate_names": [
+            "Spain",
+            "Kingdom of Spain",
+            "Reino de Espa\u00f1a",
+            "Espa\u00f1a",
+            "ES"
+        ]
+    },
+    {
+        "name": "Slovenia",
+        "alpha2": "SI",
+        "alpha3": "SVN",
+        "numeric": "705",
+        "continent": "Europe",
+        "capital": "Ljubljana",
+        "timezone": "Europe\/Ljubljana",
+        "phone": "386",
+        "alternate_names": [
+            "Slovenia",
+            "Republic of Slovenia",
+            "Republika Slovenija",
+            "Slovenija",
+            "SI"
+        ]
+    },
+    {
+        "name": "Oman",
+        "alpha2": "OM",
+        "alpha3": "OMN",
+        "numeric": "512",
+        "continent": "Asia",
+        "capital": "Muscat",
+        "timezone": "Asia\/Muscat",
+        "phone": "968",
+        "alternate_names": {
+            "0": "Oman",
+            "1": "Sultanate of Oman",
+            "2": "\u0633\u0644\u0637\u0646\u0629 \u0639\u0645\u0627\u0646",
+            "3": "\u0639\u0645\u0627\u0646",
+            "4": "OM",
+            "6": "Sal\u1e6danat \u02bbUm\u0101n"
+        }
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "alpha2": "PM",
+        "alpha3": "SPM",
+        "numeric": "666",
+        "continent": "North America",
+        "capital": "Saint-Pierre",
+        "timezone": "America\/Miquelon",
+        "phone": "508",
+        "alternate_names": {
+            "0": "Saint Pierre and Miquelon",
+            "2": "Collectivit\u00e9 territoriale de Saint-Pierre-et-Miquelon",
+            "3": "Saint-Pierre-et-Miquelon",
+            "4": "PM"
+        }
+    },
+    {
+        "name": "Macau",
+        "alpha2": "MO",
+        "alpha3": "MAC",
+        "numeric": "446",
+        "continent": "Asia",
+        "capital": "Unknown",
+        "timezone": "Asia\/Macau",
+        "phone": "853",
+        "alternate_names": {
+            "0": "Macau",
+            "1": "Macao Special Administrative Region of the People's Republic of China",
+            "2": "Regi\u00e3o Administrativa Especial de Macau da Rep\u00fablica Popular da China",
+            "4": "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u6fb3\u95e8\u7279\u522b\u884c\u653f\u533a",
+            "5": "\u6fb3\u95e8",
+            "6": "MO",
+            "8": "Macao",
+            "10": "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u570b\u6fb3\u9580\u7279\u5225\u884c\u653f\u5340"
+        }
+    },
+    {
+        "name": "San Marino",
+        "alpha2": "SM",
+        "alpha3": "SMR",
+        "numeric": "674",
+        "continent": "Europe",
+        "capital": "City of San Marino",
+        "timezone": "Europe\/San_Marino",
+        "phone": "378",
+        "alternate_names": {
+            "0": "San Marino",
+            "1": "Republic of San Marino",
+            "2": "Repubblica di San Marino",
+            "4": "SM"
+        }
+    },
+    {
+        "name": "Lesotho",
+        "alpha2": "LS",
+        "alpha3": "LSO",
+        "numeric": "426",
+        "continent": "Africa",
+        "capital": "Maseru",
+        "timezone": "Africa\/Maseru",
+        "phone": "266",
+        "alternate_names": {
+            "0": "Lesotho",
+            "1": "Kingdom of Lesotho",
+            "6": "LS",
+            "8": "Muso oa Lesotho"
+        }
+    },
+    {
+        "name": "Marshall Islands",
+        "alpha2": "MH",
+        "alpha3": "MHL",
+        "numeric": "584",
+        "continent": "Oceania",
+        "capital": "Majuro",
+        "timezone": "Pacific\/Kwajalein",
+        "phone": "692",
+        "alternate_names": {
+            "0": "Marshall Islands",
+            "1": "Republic of the Marshall Islands",
+            "5": "M\u0327aje\u013c",
+            "6": "MH",
+            "8": "Aolep\u0101n Aor\u014dkin M\u0327aje\u013c"
+        }
+    },
+    {
+        "name": "Sint Maarten",
+        "alpha2": "SX",
+        "alpha3": "SXM",
+        "numeric": "534",
+        "continent": "North America",
+        "capital": "Philipsburg",
+        "timezone": "America\/Lower_Princes",
+        "phone": "1721",
+        "alternate_names": {
+            "0": "Sint Maarten",
+            "4": "Saint-Martin",
+            "8": "SX",
+            "9": "Sint Maarten (Dutch part)"
+        }
+    },
+    {
+        "name": "Iceland",
+        "alpha2": "IS",
+        "alpha3": "ISL",
+        "numeric": "352",
+        "continent": "Europe",
+        "capital": "Reykjavik",
+        "timezone": "Atlantic\/Reykjavik",
+        "phone": "354",
+        "alternate_names": {
+            "0": "Iceland",
+            "2": "\u00cdsland",
+            "4": "IS",
+            "5": "Island",
+            "6": "Republic of Iceland",
+            "7": "L\u00fd\u00f0veldi\u00f0 \u00cdsland"
+        }
+    },
+    {
+        "name": "Luxembourg",
+        "alpha2": "LU",
+        "alpha3": "LUX",
+        "numeric": "442",
+        "continent": "Europe",
+        "capital": "Luxembourg",
+        "timezone": "Europe\/Luxembourg",
+        "phone": "352",
+        "alternate_names": {
+            "0": "Luxembourg",
+            "1": "Grand Duchy of Luxembourg",
+            "2": "Gro\u00dfherzogtum Luxemburg",
+            "3": "Luxemburg",
+            "4": "Grand-Duch\u00e9 de Luxembourg",
+            "6": "Groussherzogtum L\u00ebtzebuerg",
+            "7": "L\u00ebtzebuerg",
+            "8": "LU"
+        }
+    },
+    {
+        "name": "Argentina",
+        "alpha2": "AR",
+        "alpha3": "ARG",
+        "numeric": "032",
+        "continent": "South America",
+        "capital": "Buenos Aires",
+        "timezone": "America\/Argentina\/Buenos_Aires",
+        "phone": "54",
+        "alternate_names": {
+            "0": "Argentina",
+            "1": "Argentine Republic",
+            "4": "Rep\u00fablica Argentina",
+            "6": "AR"
+        }
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "alpha2": "TC",
+        "alpha3": "TCA",
+        "numeric": "796",
+        "continent": "North America",
+        "capital": "Cockburn Town",
+        "timezone": "America\/Grand_Turk",
+        "phone": "1649",
+        "alternate_names": {
+            "0": "Turks and Caicos Islands",
+            "4": "TC"
+        }
+    },
+    {
+        "name": "Nauru",
+        "alpha2": "NR",
+        "alpha3": "NRU",
+        "numeric": "520",
+        "continent": "Oceania",
+        "capital": "Yaren",
+        "timezone": "Pacific\/Nauru",
+        "phone": "674",
+        "alternate_names": {
+            "0": "Nauru",
+            "1": "Republic of Nauru",
+            "6": "NR",
+            "7": "Naoero",
+            "8": "Pleasant Island",
+            "10": "Ripublik Naoero"
+        }
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "alpha2": "CC",
+        "alpha3": "CCK",
+        "numeric": "166",
+        "continent": "Asia",
+        "capital": "West Island",
+        "timezone": "Indian\/Cocos",
+        "phone": "61",
+        "alternate_names": {
+            "0": "Cocos (Keeling) Islands",
+            "1": "Territory of the Cocos (Keeling) Islands",
+            "4": "CC",
+            "5": "Keeling Islands",
+            "6": "Cocos Islands"
+        }
+    },
+    {
+        "name": "Western Sahara",
+        "alpha2": "EH",
+        "alpha3": "ESH",
+        "numeric": "732",
+        "continent": "Africa",
+        "capital": "El Aai\u00fan",
+        "timezone": "Africa\/El_Aaiun",
+        "phone": "2125288125289",
+        "alternate_names": {
+            "0": "Western Sahara",
+            "1": "Sahrawi Arab Democratic Republic",
+            "4": "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0635\u062d\u0631\u0627\u0648\u064a\u0629 \u0627\u0644\u062f\u064a\u0645\u0642\u0631\u0627\u0637\u064a\u0629",
+            "5": "\u0627\u0644\u0635\u062d\u0631\u0627\u0621 \u0627\u0644\u063a\u0631\u0628\u064a\u0629",
+            "6": "Rep\u00fablica \u00c1rabe Saharaui Democr\u00e1tica",
+            "7": "Sahara Occidental",
+            "8": "EH",
+            "9": "Tane\u1e93roft Tutrimt"
+        }
+    },
+    {
+        "name": "Dominica",
+        "alpha2": "DM",
+        "alpha3": "DMA",
+        "numeric": "212",
+        "continent": "North America",
+        "capital": "Roseau",
+        "timezone": "America\/Dominica",
+        "phone": "1767",
+        "alternate_names": {
+            "0": "Dominica",
+            "1": "Commonwealth of Dominica",
+            "4": "DM",
+            "5": "Dominique",
+            "6": "Wai\u2018tu kubuli"
+        }
+    },
+    {
+        "name": "Costa Rica",
+        "alpha2": "CR",
+        "alpha3": "CRI",
+        "numeric": "188",
+        "continent": "North America",
+        "capital": "San Jos\u00e9",
+        "timezone": "America\/Costa_Rica",
+        "phone": "506",
+        "alternate_names": {
+            "0": "Costa Rica",
+            "1": "Republic of Costa Rica",
+            "2": "Rep\u00fablica de Costa Rica",
+            "4": "CR"
+        }
+    },
+    {
+        "name": "Australia",
+        "alpha2": "AU",
+        "alpha3": "AUS",
+        "numeric": "036",
+        "continent": "Oceania",
+        "capital": "Canberra",
+        "timezone": "Antarctica\/Macquarie",
+        "phone": "61",
+        "alternate_names": {
+            "0": "Australia",
+            "1": "Commonwealth of Australia",
+            "4": "AU"
+        }
+    },
+    {
+        "name": "Thailand",
+        "alpha2": "TH",
+        "alpha3": "THA",
+        "numeric": "764",
+        "continent": "Asia",
+        "capital": "Bangkok",
+        "timezone": "Asia\/Bangkok",
+        "phone": "66",
+        "alternate_names": {
+            "0": "Thailand",
+            "1": "Kingdom of Thailand",
+            "2": "\u0e23\u0e32\u0e0a\u0e2d\u0e32\u0e13\u0e32\u0e08\u0e31\u0e01\u0e23\u0e44\u0e17\u0e22",
+            "3": "\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+            "4": "TH",
+            "5": "Prathet",
+            "6": "Thai",
+            "9": "Ratcha Anachak Thai"
+        }
+    },
+    {
+        "name": "Haiti",
+        "alpha2": "HT",
+        "alpha3": "HTI",
+        "numeric": "332",
+        "continent": "North America",
+        "capital": "Port-au-Prince",
+        "timezone": "America\/Port-au-Prince",
+        "phone": "509",
+        "alternate_names": [
+            "Haiti",
+            "Republic of Haiti",
+            "R\u00e9publique d'Ha\u00efti",
+            "Ha\u00efti",
+            "Repiblik Ayiti",
+            "Ayiti",
+            "HT"
+        ]
+    },
+    {
+        "name": "Tuvalu",
+        "alpha2": "TV",
+        "alpha3": "TUV",
+        "numeric": "798",
+        "continent": "Oceania",
+        "capital": "Funafuti",
+        "timezone": "Pacific\/Funafuti",
+        "phone": "688",
+        "alternate_names": {
+            "0": "Tuvalu",
+            "6": "TV"
+        }
+    },
+    {
+        "name": "Honduras",
+        "alpha2": "HN",
+        "alpha3": "HND",
+        "numeric": "340",
+        "continent": "North America",
+        "capital": "Tegucigalpa",
+        "timezone": "America\/Tegucigalpa",
+        "phone": "504",
+        "alternate_names": {
+            "0": "Honduras",
+            "1": "Republic of Honduras",
+            "2": "Rep\u00fablica de Honduras",
+            "4": "HN"
+        }
+    },
+    {
+        "name": "Equatorial Guinea",
+        "alpha2": "GQ",
+        "alpha3": "GNQ",
+        "numeric": "226",
+        "continent": "Africa",
+        "capital": "Malabo",
+        "timezone": "Africa\/Malabo",
+        "phone": "240",
+        "alternate_names": {
+            "0": "Equatorial Guinea",
+            "1": "Republic of Equatorial Guinea",
+            "2": "R\u00e9publique de la Guin\u00e9e \u00c9quatoriale",
+            "3": "Guin\u00e9e \u00e9quatoriale",
+            "4": "Rep\u00fablica da Guin\u00e9 Equatorial",
+            "5": "Guin\u00e9 Equatorial",
+            "6": "Rep\u00fablica de Guinea Ecuatorial",
+            "7": "Guinea Ecuatorial",
+            "8": "GQ",
+            "11": "R\u00e9publique de Guin\u00e9e \u00e9quatoriale"
+        }
+    },
+    {
+        "name": "Saint Lucia",
+        "alpha2": "LC",
+        "alpha3": "LCA",
+        "numeric": "662",
+        "continent": "North America",
+        "capital": "Castries",
+        "timezone": "America\/St_Lucia",
+        "phone": "1758",
+        "alternate_names": {
+            "0": "Saint Lucia",
+            "4": "LC"
+        }
+    },
+    {
+        "name": "French Polynesia",
+        "alpha2": "PF",
+        "alpha3": "PYF",
+        "numeric": "258",
+        "continent": "Oceania",
+        "capital": "Papeet\u0113",
+        "timezone": "Pacific\/Gambier",
+        "phone": "689",
+        "alternate_names": {
+            "0": "French Polynesia",
+            "2": "Polyn\u00e9sie fran\u00e7aise",
+            "4": "PF",
+            "7": "P\u014dr\u012bnetia Far\u0101ni"
+        }
+    },
+    {
+        "name": "Belarus",
+        "alpha2": "BY",
+        "alpha3": "BLR",
+        "numeric": "112",
+        "continent": "Europe",
+        "capital": "Minsk",
+        "timezone": "Europe\/Minsk",
+        "phone": "375",
+        "alternate_names": {
+            "0": "Belarus",
+            "1": "Republic of Belarus",
+            "2": "\u0420\u044d\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+            "3": "\u0411\u0435\u043b\u0430\u0440\u0443\u0301\u0441\u044c",
+            "4": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+            "5": "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+            "6": "BY",
+            "7": "Bielaru\u015b",
+            "9": "\u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u0438\u044f",
+            "10": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u0438\u044f"
+        }
+    },
+    {
+        "name": "Latvia",
+        "alpha2": "LV",
+        "alpha3": "LVA",
+        "numeric": "428",
+        "continent": "Europe",
+        "capital": "Riga",
+        "timezone": "Europe\/Riga",
+        "phone": "371",
+        "alternate_names": {
+            "0": "Latvia",
+            "1": "Republic of Latvia",
+            "2": "Latvijas Republikas",
+            "3": "Latvija",
+            "4": "LV",
+            "6": "Latvijas Republika"
+        }
+    },
+    {
+        "name": "Palau",
+        "alpha2": "PW",
+        "alpha3": "PLW",
+        "numeric": "585",
+        "continent": "Oceania",
+        "capital": "Ngerulmud",
+        "timezone": "Pacific\/Palau",
+        "phone": "680",
+        "alternate_names": {
+            "0": "Palau",
+            "1": "Republic of Palau",
+            "4": "Beluu er a Belau",
+            "5": "Belau",
+            "6": "PW"
+        }
+    },
+    {
+        "name": "Guadeloupe",
+        "alpha2": "GP",
+        "alpha3": "GLP",
+        "numeric": "312",
+        "continent": "North America",
+        "capital": "Basse-Terre",
+        "timezone": "America\/Guadeloupe",
+        "phone": "590",
+        "alternate_names": {
+            "0": "Guadeloupe",
+            "4": "GP",
+            "5": "Gwadloup"
+        }
+    },
+    {
+        "name": "Philippines",
+        "alpha2": "PH",
+        "alpha3": "PHL",
+        "numeric": "608",
+        "continent": "Asia",
+        "capital": "Manila",
+        "timezone": "Asia\/Manila",
+        "phone": "63",
+        "alternate_names": {
+            "0": "Philippines",
+            "1": "Republic of the Philippines",
+            "5": "Pilipinas",
+            "6": "PH",
+            "8": "Rep\u00fablika ng Pilipinas"
+        }
+    },
+    {
+        "name": "Gibraltar",
+        "alpha2": "GI",
+        "alpha3": "GIB",
+        "numeric": "292",
+        "continent": "Europe",
+        "capital": "Gibraltar",
+        "timezone": "Europe\/Gibraltar",
+        "phone": "350",
+        "alternate_names": {
+            "0": "Gibraltar",
+            "4": "GI"
+        }
+    },
+    {
+        "name": "Denmark",
+        "alpha2": "DK",
+        "alpha3": "DNK",
+        "numeric": "208",
+        "continent": "Europe",
+        "capital": "Copenhagen",
+        "timezone": "Europe\/Copenhagen",
+        "phone": "45",
+        "alternate_names": [
+            "Denmark",
+            "Kingdom of Denmark",
+            "Kongeriget Danmark",
+            "Danmark",
+            "DK"
+        ]
+    },
+    {
+        "name": "Cameroon",
+        "alpha2": "CM",
+        "alpha3": "CMR",
+        "numeric": "120",
+        "continent": "Africa",
+        "capital": "Yaound\u00e9",
+        "timezone": "Africa\/Douala",
+        "phone": "237",
+        "alternate_names": {
+            "0": "Cameroon",
+            "1": "Republic of Cameroon",
+            "4": "R\u00e9publique du Cameroun",
+            "5": "Cameroun",
+            "6": "CM"
+        }
+    },
+    {
+        "name": "Guinea",
+        "alpha2": "GN",
+        "alpha3": "GIN",
+        "numeric": "324",
+        "continent": "Africa",
+        "capital": "Conakry",
+        "timezone": "Africa\/Conakry",
+        "phone": "224",
+        "alternate_names": [
+            "Guinea",
+            "Republic of Guinea",
+            "R\u00e9publique de Guin\u00e9e",
+            "Guin\u00e9e",
+            "GN"
+        ]
+    },
+    {
+        "name": "Bahrain",
+        "alpha2": "BH",
+        "alpha3": "BHR",
+        "numeric": "048",
+        "continent": "Asia",
+        "capital": "Manama",
+        "timezone": "Asia\/Bahrain",
+        "phone": "973",
+        "alternate_names": {
+            "0": "Bahrain",
+            "1": "Kingdom of Bahrain",
+            "2": "\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+            "3": "\u200f\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+            "4": "BH",
+            "6": "Mamlakat al-Ba\u1e25rayn"
+        }
+    },
+    {
+        "name": "Suriname",
+        "alpha2": "SR",
+        "alpha3": "SUR",
+        "numeric": "740",
+        "continent": "South America",
+        "capital": "Paramaribo",
+        "timezone": "America\/Paramaribo",
+        "phone": "597",
+        "alternate_names": {
+            "0": "Suriname",
+            "1": "Republic of Suriname",
+            "2": "Republiek Suriname",
+            "4": "SR",
+            "5": "Sarnam",
+            "6": "Sranangron"
+        }
+    },
+    {
+        "name": "DR Congo",
+        "alpha2": "CD",
+        "alpha3": "COD",
+        "numeric": "180",
+        "continent": "Africa",
+        "capital": "Kinshasa",
+        "timezone": "Africa\/Kinshasa",
+        "phone": "243",
+        "alternate_names": {
+            "0": "DR Congo",
+            "1": "Democratic Republic of the Congo",
+            "2": "R\u00e9publique d\u00e9mocratique du Congo",
+            "3": "RD Congo",
+            "4": "Repubilika ya Kongo Demokratiki",
+            "6": "Republiki ya Kong\u00f3 Demokratiki",
+            "8": "Ditunga dia Kongu wa Mungalaata",
+            "10": "Jamhuri ya Kidemokrasia ya Kongo",
+            "12": "CD",
+            "14": "Congo-Kinshasa",
+            "15": "Congo, the Democratic Republic of the",
+            "16": "DRC"
+        }
+    },
+    {
+        "name": "Somalia",
+        "alpha2": "SO",
+        "alpha3": "SOM",
+        "numeric": "706",
+        "continent": "Africa",
+        "capital": "Mogadishu",
+        "timezone": "Africa\/Mogadishu",
+        "phone": "252",
+        "alternate_names": {
+            "0": "Somalia",
+            "1": "Federal Republic of Somalia",
+            "2": "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0635\u0648\u0645\u0627\u0644\u200e\u200e",
+            "3": "\u0627\u0644\u0635\u0648\u0645\u0627\u0644\u200e\u200e",
+            "4": "Jamhuuriyadda Federaalka Soomaaliya",
+            "5": "Soomaaliya",
+            "6": "SO",
+            "7": "a\u1e63-\u1e62\u016bm\u0101l",
+            "10": "Jumh\u016briyyat a\u1e63-\u1e62\u016bm\u0101l al-Fider\u0101liyya"
+        }
+    },
+    {
+        "name": "Czechia",
+        "alpha2": "CZ",
+        "alpha3": "CZE",
+        "numeric": "203",
+        "continent": "Europe",
+        "capital": "Prague",
+        "timezone": "Europe\/Prague",
+        "phone": "420",
+        "alternate_names": {
+            "0": "Czechia",
+            "1": "Czech Republic",
+            "2": "\u010cesk\u00e1 republika",
+            "3": "\u010cesko",
+            "6": "CZ"
+        }
+    },
+    {
+        "name": "New Caledonia",
+        "alpha2": "NC",
+        "alpha3": "NCL",
+        "numeric": "540",
+        "continent": "Oceania",
+        "capital": "Noum\u00e9a",
+        "timezone": "Pacific\/Noumea",
+        "phone": "687",
+        "alternate_names": {
+            "0": "New Caledonia",
+            "2": "Nouvelle-Cal\u00e9donie",
+            "4": "NC"
+        }
+    },
+    {
+        "name": "Vanuatu",
+        "alpha2": "VU",
+        "alpha3": "VUT",
+        "numeric": "548",
+        "continent": "Oceania",
+        "capital": "Port Vila",
+        "timezone": "Pacific\/Efate",
+        "phone": "678",
+        "alternate_names": {
+            "0": "Vanuatu",
+            "1": "Republic of Vanuatu",
+            "2": "Ripablik blong Vanuatu",
+            "6": "R\u00e9publique de Vanuatu",
+            "8": "VU"
+        }
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "alpha2": "SH",
+        "alpha3": "SHN",
+        "numeric": "654",
+        "continent": "Africa",
+        "capital": "Jamestown",
+        "timezone": "Atlantic\/St_Helena",
+        "phone": "29047",
+        "alternate_names": {
+            "0": "Saint Helena, Ascension and Tristan da Cunha",
+            "4": "Saint Helena",
+            "5": "St. Helena, Ascension and Tristan da Cunha"
+        }
+    },
+    {
+        "name": "Togo",
+        "alpha2": "TG",
+        "alpha3": "TGO",
+        "numeric": "768",
+        "continent": "Africa",
+        "capital": "Lom\u00e9",
+        "timezone": "Africa\/Lome",
+        "phone": "228",
+        "alternate_names": {
+            "0": "Togo",
+            "1": "Togolese Republic",
+            "2": "R\u00e9publique togolaise",
+            "4": "TG",
+            "5": "Togolese",
+            "7": "R\u00e9publique Togolaise"
+        }
+    },
+    {
+        "name": "British Virgin Islands",
+        "alpha2": "VG",
+        "alpha3": "VGB",
+        "numeric": "092",
+        "continent": "North America",
+        "capital": "Road Town",
+        "timezone": "America\/Tortola",
+        "phone": "1284",
+        "alternate_names": {
+            "0": "British Virgin Islands",
+            "1": "Virgin Islands",
+            "4": "VG",
+            "5": "Virgin Islands, British"
+        }
+    },
+    {
+        "name": "Kenya",
+        "alpha2": "KE",
+        "alpha3": "KEN",
+        "numeric": "404",
+        "continent": "Africa",
+        "capital": "Nairobi",
+        "timezone": "Africa\/Nairobi",
+        "phone": "254",
+        "alternate_names": {
+            "0": "Kenya",
+            "1": "Republic of Kenya",
+            "6": "KE",
+            "8": "Jamhuri ya Kenya"
+        }
+    },
+    {
+        "name": "Niue",
+        "alpha2": "NU",
+        "alpha3": "NIU",
+        "numeric": "570",
+        "continent": "Oceania",
+        "capital": "Alofi",
+        "timezone": "Pacific\/Niue",
+        "phone": "683",
+        "alternate_names": {
+            "0": "Niue",
+            "4": "Niu\u0113",
+            "6": "NU"
+        }
+    },
+    {
+        "name": "Heard Island and McDonald Islands",
+        "alpha2": "HM",
+        "alpha3": "HMD",
+        "numeric": "334",
+        "continent": "Antarctica",
+        "capital": "Unknown",
+        "timezone": "Antarctica\/Mawson",
+        "phone": "Unknown",
+        "alternate_names": {
+            "0": "Heard Island and McDonald Islands",
+            "4": "HM"
+        }
+    },
+    {
+        "name": "Rwanda",
+        "alpha2": "RW",
+        "alpha3": "RWA",
+        "numeric": "646",
+        "continent": "Africa",
+        "capital": "Kigali",
+        "timezone": "Africa\/Kigali",
+        "phone": "250",
+        "alternate_names": {
+            "0": "Rwanda",
+            "1": "Republic of Rwanda",
+            "4": "R\u00e9publique rwandaise",
+            "6": "Repubulika y'u Rwanda",
+            "8": "RW",
+            "11": "R\u00e9publique du Rwanda"
+        }
+    },
+    {
+        "name": "Estonia",
+        "alpha2": "EE",
+        "alpha3": "EST",
+        "numeric": "233",
+        "continent": "Europe",
+        "capital": "Tallinn",
+        "timezone": "Europe\/Tallinn",
+        "phone": "372",
+        "alternate_names": [
+            "Estonia",
+            "Republic of Estonia",
+            "Eesti Vabariik",
+            "Eesti",
+            "EE"
+        ]
+    },
+    {
+        "name": "Romania",
+        "alpha2": "RO",
+        "alpha3": "ROU",
+        "numeric": "642",
+        "continent": "Europe",
+        "capital": "Bucharest",
+        "timezone": "Europe\/Bucharest",
+        "phone": "40",
+        "alternate_names": {
+            "0": "Romania",
+            "2": "Rom\u00e2nia",
+            "4": "RO",
+            "5": "Rumania",
+            "6": "Roumania"
+        }
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "alpha2": "TT",
+        "alpha3": "TTO",
+        "numeric": "780",
+        "continent": "North America",
+        "capital": "Port of Spain",
+        "timezone": "America\/Port_of_Spain",
+        "phone": "1868",
+        "alternate_names": {
+            "0": "Trinidad and Tobago",
+            "1": "Republic of Trinidad and Tobago",
+            "4": "TT"
+        }
+    },
+    {
+        "name": "Guyana",
+        "alpha2": "GY",
+        "alpha3": "GUY",
+        "numeric": "328",
+        "continent": "South America",
+        "capital": "Georgetown",
+        "timezone": "America\/Guyana",
+        "phone": "592",
+        "alternate_names": {
+            "0": "Guyana",
+            "1": "Co-operative Republic of Guyana",
+            "4": "GY"
+        }
+    },
+    {
+        "name": "Timor-Leste",
+        "alpha2": "TL",
+        "alpha3": "TLS",
+        "numeric": "626",
+        "continent": "Oceania",
+        "capital": "Dili",
+        "timezone": "Asia\/Dili",
+        "phone": "670",
+        "alternate_names": {
+            "0": "Timor-Leste",
+            "1": "Democratic Republic of Timor-Leste",
+            "2": "Rep\u00fablica Democr\u00e1tica de Timor-Leste",
+            "4": "Rep\u00fablika Demokr\u00e1tika Tim\u00f3r-Leste",
+            "5": "Tim\u00f3r-Leste",
+            "6": "TL",
+            "7": "East Timor",
+            "11": "Tim\u00f3r Lorosa'e",
+            "12": "Timor Lorosae"
+        }
+    },
+    {
+        "name": "Vietnam",
+        "alpha2": "VN",
+        "alpha3": "VNM",
+        "numeric": "704",
+        "continent": "Asia",
+        "capital": "Hanoi",
+        "timezone": "Asia\/Ho_Chi_Minh",
+        "phone": "84",
+        "alternate_names": {
+            "0": "Vietnam",
+            "1": "Socialist Republic of Vietnam",
+            "2": "C\u1ed9ng h\u00f2a x\u00e3 h\u1ed9i ch\u1ee7 ngh\u0129a Vi\u1ec7t Nam",
+            "3": "Vi\u1ec7t Nam",
+            "4": "VN",
+            "6": "C\u1ed9ng h\u00f2a X\u00e3 h\u1ed9i ch\u1ee7 ngh\u0129a Vi\u1ec7t Nam",
+            "7": "Viet Nam"
+        }
+    },
+    {
+        "name": "Uruguay",
+        "alpha2": "UY",
+        "alpha3": "URY",
+        "numeric": "858",
+        "continent": "South America",
+        "capital": "Montevideo",
+        "timezone": "America\/Montevideo",
+        "phone": "598",
+        "alternate_names": {
+            "0": "Uruguay",
+            "1": "Oriental Republic of Uruguay",
+            "2": "Rep\u00fablica Oriental del Uruguay",
+            "4": "UY"
+        }
+    },
+    {
+        "name": "Vatican City",
+        "alpha2": "VA",
+        "alpha3": "VAT",
+        "numeric": "336",
+        "continent": "Europe",
+        "capital": "Vatican City",
+        "timezone": "Europe\/Vatican",
+        "phone": "390669879",
+        "alternate_names": [
+            "Vatican City",
+            "Vatican City State",
+            "Stato della Citt\u00e0 del Vaticano",
+            "Vaticano",
+            "Status Civitatis Vatican\u00e6",
+            "Vatican\u00e6",
+            "VA",
+            "Holy See (Vatican City State)"
+        ]
+    },
+    {
+        "name": "Hong Kong",
+        "alpha2": "HK",
+        "alpha3": "HKG",
+        "numeric": "344",
+        "continent": "Asia",
+        "capital": "City of Victoria",
+        "timezone": "Asia\/Hong_Kong",
+        "phone": "852",
+        "alternate_names": {
+            "0": "Hong Kong",
+            "1": "Hong Kong Special Administrative Region of the People's Republic of China",
+            "4": "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u9999\u6e2f\u7279\u522b\u884c\u653f\u533a",
+            "5": "\u9999\u6e2f",
+            "6": "HK"
+        }
+    },
+    {
+        "name": "Austria",
+        "alpha2": "AT",
+        "alpha3": "AUT",
+        "numeric": "040",
+        "continent": "Europe",
+        "capital": "Vienna",
+        "timezone": "Europe\/Vienna",
+        "phone": "43",
+        "alternate_names": [
+            "Austria",
+            "Republic of Austria",
+            "Republik \u00d6sterreich",
+            "\u00d6sterreich",
+            "AT",
+            "Osterreich",
+            "Oesterreich"
+        ]
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "alpha2": "AG",
+        "alpha3": "ATG",
+        "numeric": "028",
+        "continent": "North America",
+        "capital": "Saint John's",
+        "timezone": "America\/Antigua",
+        "phone": "1268",
+        "alternate_names": {
+            "0": "Antigua and Barbuda",
+            "4": "AG"
+        }
+    },
+    {
+        "name": "Turkmenistan",
+        "alpha2": "TM",
+        "alpha3": "TKM",
+        "numeric": "795",
+        "continent": "Asia",
+        "capital": "Ashgabat",
+        "timezone": "Asia\/Ashgabat",
+        "phone": "993",
+        "alternate_names": {
+            "0": "Turkmenistan",
+            "2": "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u0441\u0442\u0430\u043d",
+            "3": "\u0422\u0443\u0440\u043a\u043c\u0435\u043d\u0438\u044f",
+            "4": "T\u00fcrkmenistan",
+            "6": "TM"
+        }
+    },
+    {
+        "name": "Mozambique",
+        "alpha2": "MZ",
+        "alpha3": "MOZ",
+        "numeric": "508",
+        "continent": "Africa",
+        "capital": "Maputo",
+        "timezone": "Africa\/Maputo",
+        "phone": "258",
+        "alternate_names": [
+            "Mozambique",
+            "Republic of Mozambique",
+            "Rep\u00fablica de Mo\u00e7ambique",
+            "Mo\u00e7ambique",
+            "MZ"
+        ]
+    },
+    {
+        "name": "Panama",
+        "alpha2": "PA",
+        "alpha3": "PAN",
+        "numeric": "591",
+        "continent": "North America",
+        "capital": "Panama City",
+        "timezone": "America\/Panama",
+        "phone": "507",
+        "alternate_names": [
+            "Panama",
+            "Republic of Panama",
+            "Rep\u00fablica de Panam\u00e1",
+            "Panam\u00e1",
+            "PA"
+        ]
+    },
+    {
+        "name": "Micronesia",
+        "alpha2": "FM",
+        "alpha3": "FSM",
+        "numeric": "583",
+        "continent": "Oceania",
+        "capital": "Palikir",
+        "timezone": "Pacific\/Chuuk",
+        "phone": "691",
+        "alternate_names": {
+            "0": "Micronesia",
+            "1": "Federated States of Micronesia",
+            "4": "FM",
+            "6": "Micronesia, Federated States of"
+        }
+    },
+    {
+        "name": "Ireland",
+        "alpha2": "IE",
+        "alpha3": "IRL",
+        "numeric": "372",
+        "continent": "Europe",
+        "capital": "Dublin",
+        "timezone": "Europe\/Dublin",
+        "phone": "353",
+        "alternate_names": {
+            "0": "Ireland",
+            "1": "Republic of Ireland",
+            "4": "Poblacht na h\u00c9ireann",
+            "5": "\u00c9ire",
+            "6": "IE"
+        }
+    },
+    {
+        "name": "Cura\u00e7ao",
+        "alpha2": "CW",
+        "alpha3": "CUW",
+        "numeric": "531",
+        "continent": "North America",
+        "capital": "Willemstad",
+        "timezone": "America\/Curacao",
+        "phone": "599",
+        "alternate_names": {
+            "0": "Cura\u00e7ao",
+            "1": "Country of Cura\u00e7ao",
+            "4": "Land Cura\u00e7ao",
+            "6": "Pais K\u00f2rsou",
+            "8": "CW",
+            "9": "Curacao",
+            "10": "K\u00f2rsou"
+        }
+    },
+    {
+        "name": "French Guiana",
+        "alpha2": "GF",
+        "alpha3": "GUF",
+        "numeric": "254",
+        "continent": "South America",
+        "capital": "Cayenne",
+        "timezone": "America\/Cayenne",
+        "phone": "594",
+        "alternate_names": [
+            "French Guiana",
+            "Guiana",
+            "Guyane",
+            "Guyane fran\u00e7aise",
+            "GF"
+        ]
+    },
+    {
+        "name": "Norway",
+        "alpha2": "NO",
+        "alpha3": "NOR",
+        "numeric": "578",
+        "continent": "Europe",
+        "capital": "Oslo",
+        "timezone": "Europe\/Oslo",
+        "phone": "47",
+        "alternate_names": [
+            "Norway",
+            "Kingdom of Norway",
+            "Kongeriket Noreg",
+            "Noreg",
+            "Kongeriket Norge",
+            "Norge",
+            "Norgga gonagasriika",
+            "Norgga",
+            "NO"
+        ]
+    },
+    {
+        "name": "\u00c5land Islands",
+        "alpha2": "AX",
+        "alpha3": "ALA",
+        "numeric": "248",
+        "continent": "Europe",
+        "capital": "Mariehamn",
+        "timezone": "Europe\/Mariehamn",
+        "phone": "35818",
+        "alternate_names": {
+            "0": "\u00c5land Islands",
+            "2": "Landskapet \u00c5land",
+            "3": "\u00c5land",
+            "4": "AX",
+            "5": "Aaland",
+            "6": "Aland",
+            "7": "Ahvenanmaa"
+        }
+    },
+    {
+        "name": "Central African Republic",
+        "alpha2": "CF",
+        "alpha3": "CAF",
+        "numeric": "140",
+        "continent": "Africa",
+        "capital": "Bangui",
+        "timezone": "Africa\/Bangui",
+        "phone": "236",
+        "alternate_names": {
+            "0": "Central African Republic",
+            "2": "R\u00e9publique centrafricaine",
+            "4": "K\u00f6d\u00f6r\u00f6s\u00ease t\u00ee B\u00eaafr\u00eeka",
+            "5": "B\u00eaafr\u00eeka",
+            "6": "CF"
+        }
+    },
+    {
+        "name": "Burkina Faso",
+        "alpha2": "BF",
+        "alpha3": "BFA",
+        "numeric": "854",
+        "continent": "Africa",
+        "capital": "Ouagadougou",
+        "timezone": "Africa\/Ouagadougou",
+        "phone": "226",
+        "alternate_names": {
+            "0": "Burkina Faso",
+            "2": "R\u00e9publique du Burkina",
+            "4": "BF"
+        }
+    },
+    {
+        "name": "Eritrea",
+        "alpha2": "ER",
+        "alpha3": "ERI",
+        "numeric": "232",
+        "continent": "Africa",
+        "capital": "Asmara",
+        "timezone": "Africa\/Asmara",
+        "phone": "291",
+        "alternate_names": {
+            "0": "Eritrea",
+            "1": "State of Eritrea",
+            "2": "\u062f\u0648\u0644\u0629 \u0625\u0631\u062a\u0631\u064a\u0627",
+            "3": "\u0625\u0631\u062a\u0631\u064a\u0627\u200e",
+            "6": "\u1203\u1308\u1228 \u12a4\u122d\u1275\u122b",
+            "7": "\u12a4\u122d\u1275\u122b",
+            "8": "ER",
+            "11": "Dawlat Iritriy\u00e1",
+            "12": "\u02beErtr\u0101",
+            "13": "Iritriy\u0101"
+        }
+    },
+    {
+        "name": "Tanzania",
+        "alpha2": "TZ",
+        "alpha3": "TZA",
+        "numeric": "834",
+        "continent": "Africa",
+        "capital": "Dodoma",
+        "timezone": "Africa\/Dar_es_Salaam",
+        "phone": "255",
+        "alternate_names": {
+            "0": "Tanzania",
+            "1": "United Republic of Tanzania",
+            "4": "Jamhuri ya Muungano wa Tanzania",
+            "6": "TZ",
+            "7": "Tanzania, United Republic of"
+        }
+    },
+    {
+        "name": "South Korea",
+        "alpha2": "KR",
+        "alpha3": "KOR",
+        "numeric": "410",
+        "continent": "Asia",
+        "capital": "Seoul",
+        "timezone": "Asia\/Seoul",
+        "phone": "82",
+        "alternate_names": {
+            "0": "South Korea",
+            "1": "Republic of Korea",
+            "2": "\ub300\ud55c\ubbfc\uad6d",
+            "3": "\ud55c\uad6d",
+            "4": "KR",
+            "5": "Korea, Republic of",
+            "7": "\ub0a8\ud55c",
+            "8": "\ub0a8\uc870\uc120"
+        }
+    },
+    {
+        "name": "Jordan",
+        "alpha2": "JO",
+        "alpha3": "JOR",
+        "numeric": "400",
+        "continent": "Asia",
+        "capital": "Amman",
+        "timezone": "Asia\/Amman",
+        "phone": "962",
+        "alternate_names": {
+            "0": "Jordan",
+            "1": "Hashemite Kingdom of Jordan",
+            "2": "\u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0623\u0631\u062f\u0646\u064a\u0629 \u0627\u0644\u0647\u0627\u0634\u0645\u064a\u0629",
+            "3": "\u0627\u0644\u0623\u0631\u062f\u0646",
+            "4": "JO",
+            "6": "al-Mamlakah al-Urdun\u012byah al-H\u0101shim\u012byah"
+        }
+    },
+    {
+        "name": "Mauritania",
+        "alpha2": "MR",
+        "alpha3": "MRT",
+        "numeric": "478",
+        "continent": "Africa",
+        "capital": "Nouakchott",
+        "timezone": "Africa\/Nouakchott",
+        "phone": "222",
+        "alternate_names": {
+            "0": "Mauritania",
+            "1": "Islamic Republic of Mauritania",
+            "2": "\u0627\u0644\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a\u0629 \u0627\u0644\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0629",
+            "3": "\u0645\u0648\u0631\u064a\u062a\u0627\u0646\u064a\u0627",
+            "4": "MR",
+            "6": "al-Jumh\u016briyyah al-\u02beIsl\u0101miyyah al-M\u016br\u012bt\u0101niyyah"
+        }
+    },
+    {
+        "name": "Lithuania",
+        "alpha2": "LT",
+        "alpha3": "LTU",
+        "numeric": "440",
+        "continent": "Europe",
+        "capital": "Vilnius",
+        "timezone": "Europe\/Vilnius",
+        "phone": "370",
+        "alternate_names": {
+            "0": "Lithuania",
+            "1": "Republic of Lithuania",
+            "2": "Lietuvos Respublikos",
+            "3": "Lietuva",
+            "4": "LT",
+            "6": "Lietuvos Respublika"
+        }
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "alpha2": "UM",
+        "alpha3": "UMI",
+        "numeric": "581",
+        "continent": "Oceania",
+        "capital": "Washington DC",
+        "timezone": "Pacific\/Midway",
+        "phone": "268",
+        "alternate_names": {
+            "0": "United States Minor Outlying Islands",
+            "4": "UM"
+        }
+    },
+    {
+        "name": "Slovakia",
+        "alpha2": "SK",
+        "alpha3": "SVK",
+        "numeric": "703",
+        "continent": "Europe",
+        "capital": "Bratislava",
+        "timezone": "Europe\/Bratislava",
+        "phone": "421",
+        "alternate_names": [
+            "Slovakia",
+            "Slovak Republic",
+            "Slovensk\u00e1 republika",
+            "Slovensko",
+            "SK"
+        ]
+    },
+    {
+        "name": "Angola",
+        "alpha2": "AO",
+        "alpha3": "AGO",
+        "numeric": "024",
+        "continent": "Africa",
+        "capital": "Luanda",
+        "timezone": "Africa\/Luanda",
+        "phone": "244",
+        "alternate_names": {
+            "0": "Angola",
+            "1": "Republic of Angola",
+            "2": "Rep\u00fablica de Angola",
+            "4": "AO",
+            "6": "\u0281\u025bpublika de an'\u0261\u0254la"
+        }
+    },
+    {
+        "name": "Kazakhstan",
+        "alpha2": "KZ",
+        "alpha3": "KAZ",
+        "numeric": "398",
+        "continent": "Asia",
+        "capital": "Nur-Sultan",
+        "timezone": "Asia\/Almaty",
+        "phone": "767",
+        "alternate_names": {
+            "0": "Kazakhstan",
+            "1": "Republic of Kazakhstan",
+            "2": "\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
+            "3": "\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d",
+            "4": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+            "5": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+            "6": "KZ",
+            "7": "Qazaqstan",
+            "11": "Qazaqstan Respubl\u00efkas\u0131",
+            "13": "Respublika Kazakhstan"
+        }
+    },
+    {
+        "name": "Moldova",
+        "alpha2": "MD",
+        "alpha3": "MDA",
+        "numeric": "498",
+        "continent": "Europe",
+        "capital": "Chi\u0219in\u0103u",
+        "timezone": "Europe\/Chisinau",
+        "phone": "373",
+        "alternate_names": {
+            "0": "Moldova",
+            "1": "Republic of Moldova",
+            "2": "Republica Moldova",
+            "4": "MD",
+            "5": "Moldova, Republic of"
+        }
+    },
+    {
+        "name": "Mali",
+        "alpha2": "ML",
+        "alpha3": "MLI",
+        "numeric": "466",
+        "continent": "Africa",
+        "capital": "Bamako",
+        "timezone": "Africa\/Bamako",
+        "phone": "223",
+        "alternate_names": {
+            "0": "Mali",
+            "1": "Republic of Mali",
+            "2": "R\u00e9publique du Mali",
+            "4": "ML"
+        }
+    },
+    {
+        "name": "Falkland Islands",
+        "alpha2": "FK",
+        "alpha3": "FLK",
+        "numeric": "238",
+        "continent": "South America",
+        "capital": "Stanley",
+        "timezone": "Atlantic\/Stanley",
+        "phone": "500",
+        "alternate_names": {
+            "0": "Falkland Islands",
+            "4": "FK",
+            "5": "Islas Malvinas",
+            "6": "Falkland Islands (Malvinas)"
+        }
+    },
+    {
+        "name": "Armenia",
+        "alpha2": "AM",
+        "alpha3": "ARM",
+        "numeric": "051",
+        "continent": "Asia",
+        "capital": "Yerevan",
+        "timezone": "Asia\/Yerevan",
+        "phone": "374",
+        "alternate_names": [
+            "Armenia",
+            "Republic of Armenia",
+            "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576\u056b \u0540\u0561\u0576\u0580\u0561\u057a\u0565\u057f\u0578\u0582\u0569\u0575\u0578\u0582\u0576",
+            "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576",
+            "AM",
+            "Hayastan"
+        ]
+    },
+    {
+        "name": "Samoa",
+        "alpha2": "WS",
+        "alpha3": "WSM",
+        "numeric": "882",
+        "continent": "Oceania",
+        "capital": "Apia",
+        "timezone": "Pacific\/Apia",
+        "phone": "685",
+        "alternate_names": {
+            "0": "Samoa",
+            "1": "Independent State of Samoa",
+            "4": "Malo Sa\u02bboloto Tuto\u02bbatasi o S\u0101moa",
+            "5": "S\u0101moa",
+            "6": "WS"
+        }
+    },
+    {
+        "name": "Jersey",
+        "alpha2": "JE",
+        "alpha3": "JEY",
+        "numeric": "832",
+        "continent": "Europe",
+        "capital": "Saint Helier",
+        "timezone": "Europe\/Jersey",
+        "phone": "44",
+        "alternate_names": {
+            "0": "Jersey",
+            "1": "Bailiwick of Jersey",
+            "4": "Bailliage de Jersey",
+            "6": "Bailliage d\u00e9 J\u00e8rri",
+            "7": "J\u00e8rri",
+            "8": "JE"
+        }
+    },
+    {
+        "name": "Japan",
+        "alpha2": "JP",
+        "alpha3": "JPN",
+        "numeric": "392",
+        "continent": "Asia",
+        "capital": "Tokyo",
+        "timezone": "Asia\/Tokyo",
+        "phone": "81",
+        "alternate_names": {
+            "0": "Japan",
+            "2": "\u65e5\u672c",
+            "4": "JP",
+            "5": "Nippon",
+            "6": "Nihon"
+        }
+    },
+    {
+        "name": "Bolivia",
+        "alpha2": "BO",
+        "alpha3": "BOL",
+        "numeric": "068",
+        "continent": "South America",
+        "capital": "Sucre",
+        "timezone": "America\/La_Paz",
+        "phone": "591",
+        "alternate_names": {
+            "0": "Bolivia",
+            "1": "Plurinational State of Bolivia",
+            "2": "Wuliwya Suyu",
+            "3": "Wuliwya",
+            "4": "Tet\u00e3 Vol\u00edvia",
+            "5": "Vol\u00edvia",
+            "6": "Buliwya Mamallaqta",
+            "7": "Buliwya",
+            "8": "Estado Plurinacional de Bolivia",
+            "10": "BO",
+            "13": "Bolivia, Plurinational State of"
+        }
+    },
+    {
+        "name": "Chile",
+        "alpha2": "CL",
+        "alpha3": "CHL",
+        "numeric": "152",
+        "continent": "South America",
+        "capital": "Santiago",
+        "timezone": "America\/Punta_Arenas",
+        "phone": "56",
+        "alternate_names": {
+            "0": "Chile",
+            "1": "Republic of Chile",
+            "2": "Rep\u00fablica de Chile",
+            "4": "CL"
+        }
+    },
+    {
+        "name": "United States",
+        "alpha2": "US",
+        "alpha3": "USA",
+        "numeric": "840",
+        "continent": "North America",
+        "capital": "Washington, D.C.",
+        "timezone": "America\/Adak",
+        "phone": "1201202203205206207208209210212213214215216217218219220224225227228229231234239240248251252253254256260262267269270272274276281283301302303304305307308309310312313314315316317318319320321323325327330331334336337339346347351352360361364380385386401402404405406407408409410412413414415417419423424425430432434435440442443447458463464469470475478479480484501502503504505507508509510512513515516517518520530531534539540541551559561562563564567570571573574575580585586601602603605606607608609610612614615616617618619620623626628629630631636641646650651657660661662667669678681682701702703704706707708712713714715716717718719720724725727730731732734737740743747754757760762763765769770772773774775779781785786801802803804805806808810812813814815816817818828830831832843845847848850854856857858859860862863864865870872878901903904906907908909910912913914915916917918919920925928929930931934936937938940941947949951952954956959970971972973975978979980984985989",
+        "alternate_names": {
+            "0": "United States",
+            "1": "United States of America",
+            "4": "US",
+            "5": "USA"
+        }
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "alpha2": "VC",
+        "alpha3": "VCT",
+        "numeric": "670",
+        "continent": "North America",
+        "capital": "Kingstown",
+        "timezone": "America\/St_Vincent",
+        "phone": "1784",
+        "alternate_names": {
+            "0": "Saint Vincent and the Grenadines",
+            "4": "VC"
+        }
+    },
+    {
+        "name": "Bermuda",
+        "alpha2": "BM",
+        "alpha3": "BMU",
+        "numeric": "060",
+        "continent": "North America",
+        "capital": "Hamilton",
+        "timezone": "Atlantic\/Bermuda",
+        "phone": "1441",
+        "alternate_names": {
+            "0": "Bermuda",
+            "4": "BM",
+            "5": "The Islands of Bermuda",
+            "6": "The Bermudas",
+            "7": "Somers Isles"
+        }
+    },
+    {
+        "name": "Seychelles",
+        "alpha2": "SC",
+        "alpha3": "SYC",
+        "numeric": "690",
+        "continent": "Africa",
+        "capital": "Victoria",
+        "timezone": "Indian\/Mahe",
+        "phone": "248",
+        "alternate_names": {
+            "0": "Seychelles",
+            "1": "Republic of Seychelles",
+            "2": "Repiblik Sesel",
+            "3": "Sesel",
+            "6": "R\u00e9publique des Seychelles",
+            "8": "SC"
+        }
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "alpha2": "IO",
+        "alpha3": "IOT",
+        "numeric": "086",
+        "continent": "Asia",
+        "capital": "Diego Garcia",
+        "timezone": "Indian\/Chagos",
+        "phone": "246",
+        "alternate_names": {
+            "0": "British Indian Ocean Territory",
+            "4": "IO"
+        }
+    },
+    {
+        "name": "Guatemala",
+        "alpha2": "GT",
+        "alpha3": "GTM",
+        "numeric": "320",
+        "continent": "North America",
+        "capital": "Guatemala City",
+        "timezone": "America\/Guatemala",
+        "phone": "502",
+        "alternate_names": {
+            "0": "Guatemala",
+            "1": "Republic of Guatemala",
+            "2": "Rep\u00fablica de Guatemala",
+            "4": "GT"
+        }
+    },
+    {
+        "name": "Ecuador",
+        "alpha2": "EC",
+        "alpha3": "ECU",
+        "numeric": "218",
+        "continent": "South America",
+        "capital": "Quito",
+        "timezone": "America\/Guayaquil",
+        "phone": "593",
+        "alternate_names": {
+            "0": "Ecuador",
+            "1": "Republic of Ecuador",
+            "2": "Rep\u00fablica del Ecuador",
+            "4": "EC"
+        }
+    },
+    {
+        "name": "Martinique",
+        "alpha2": "MQ",
+        "alpha3": "MTQ",
+        "numeric": "474",
+        "continent": "North America",
+        "capital": "Fort-de-France",
+        "timezone": "America\/Martinique",
+        "phone": "596",
+        "alternate_names": {
+            "0": "Martinique",
+            "4": "MQ"
+        }
+    },
+    {
+        "name": "Tajikistan",
+        "alpha2": "TJ",
+        "alpha3": "TJK",
+        "numeric": "762",
+        "continent": "Asia",
+        "capital": "Dushanbe",
+        "timezone": "Asia\/Dushanbe",
+        "phone": "992",
+        "alternate_names": {
+            "0": "Tajikistan",
+            "1": "Republic of Tajikistan",
+            "2": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0422\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d",
+            "3": "\u0422\u0430\u0434\u0436\u0438\u043a\u0438\u0441\u0442\u0430\u043d",
+            "4": "\u04b6\u0443\u043c\u04b3\u0443\u0440\u0438\u0438 \u0422\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d",
+            "5": "\u0422\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d",
+            "6": "TJ",
+            "7": "To\u00e7ikiston",
+            "10": "\u00c7umhuriyi To\u00e7ikiston"
+        }
+    },
+    {
+        "name": "Malta",
+        "alpha2": "MT",
+        "alpha3": "MLT",
+        "numeric": "470",
+        "continent": "Europe",
+        "capital": "Valletta",
+        "timezone": "Europe\/Malta",
+        "phone": "356",
+        "alternate_names": {
+            "0": "Malta",
+            "1": "Republic of Malta",
+            "4": "Repubblika ta ' Malta",
+            "6": "MT",
+            "8": "Repubblika ta' Malta"
+        }
+    },
+    {
+        "name": "Gambia",
+        "alpha2": "GM",
+        "alpha3": "GMB",
+        "numeric": "270",
+        "continent": "Africa",
+        "capital": "Banjul",
+        "timezone": "Africa\/Banjul",
+        "phone": "220",
+        "alternate_names": {
+            "0": "Gambia",
+            "1": "Republic of the Gambia",
+            "4": "GM"
+        }
+    },
+    {
+        "name": "Nigeria",
+        "alpha2": "NG",
+        "alpha3": "NGA",
+        "numeric": "566",
+        "continent": "Africa",
+        "capital": "Abuja",
+        "timezone": "Africa\/Lagos",
+        "phone": "234",
+        "alternate_names": {
+            "0": "Nigeria",
+            "1": "Federal Republic of Nigeria",
+            "4": "NG",
+            "5": "Nijeriya",
+            "6": "Na\u00edj\u00edr\u00ed\u00e0"
+        }
+    },
+    {
+        "name": "Bahamas",
+        "alpha2": "BS",
+        "alpha3": "BHS",
+        "numeric": "044",
+        "continent": "North America",
+        "capital": "Nassau",
+        "timezone": "America\/Nassau",
+        "phone": "1242",
+        "alternate_names": {
+            "0": "Bahamas",
+            "1": "Commonwealth of the Bahamas",
+            "4": "BS"
+        }
+    },
+    {
+        "name": "Kosovo",
+        "alpha2": "XK",
+        "alpha3": "UNK",
+        "numeric": "Unknown",
+        "continent": "Europe",
+        "capital": "Pristina",
+        "timezone": "Africa\/Algiers",
+        "phone": "383",
+        "alternate_names": [
+            "Kosovo",
+            "Republic of Kosovo",
+            "Republika e Kosov\u00ebs",
+            "Kosova",
+            "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0441\u043e\u0432\u043e",
+            "\u041a\u043e\u0441\u043e\u0432\u043e",
+            "XK"
+        ]
+    },
+    {
+        "name": "Kuwait",
+        "alpha2": "KW",
+        "alpha3": "KWT",
+        "numeric": "414",
+        "continent": "Asia",
+        "capital": "Kuwait City",
+        "timezone": "Asia\/Kuwait",
+        "phone": "965",
+        "alternate_names": {
+            "0": "Kuwait",
+            "1": "State of Kuwait",
+            "2": "\u062f\u0648\u0644\u0629 \u0627\u0644\u0643\u0648\u064a\u062a",
+            "3": "\u0627\u0644\u0643\u0648\u064a\u062a",
+            "4": "KW",
+            "6": "Dawlat al-Kuwait"
+        }
+    },
+    {
+        "name": "Maldives",
+        "alpha2": "MV",
+        "alpha3": "MDV",
+        "numeric": "462",
+        "continent": "Asia",
+        "capital": "Mal\u00e9",
+        "timezone": "Indian\/Maldives",
+        "phone": "960",
+        "alternate_names": {
+            "0": "Maldives",
+            "1": "Republic of the Maldives",
+            "2": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ad\u078e\u07ac \u0796\u07aa\u0789\u07b0\u0780\u07ab\u0783\u07a8\u0787\u07b0\u0794\u07a7",
+            "3": "\u078b\u07a8\u0788\u07ac\u0780\u07a8\u0783\u07a7\u0787\u07b0\u0796\u07ad\u078e\u07ac",
+            "4": "MV",
+            "5": "Maldive Islands",
+            "7": "Dhivehi Raajjeyge Jumhooriyya"
+        }
+    },
+    {
+        "name": "South Sudan",
+        "alpha2": "SS",
+        "alpha3": "SSD",
+        "numeric": "728",
+        "continent": "Africa",
+        "capital": "Juba",
+        "timezone": "Africa\/Juba",
+        "phone": "211",
+        "alternate_names": {
+            "0": "South Sudan",
+            "1": "Republic of South Sudan",
+            "4": "SS"
+        }
+    },
+    {
+        "name": "Iran",
+        "alpha2": "IR",
+        "alpha3": "IRN",
+        "numeric": "364",
+        "continent": "Asia",
+        "capital": "Tehran",
+        "timezone": "Asia\/Tehran",
+        "phone": "98",
+        "alternate_names": {
+            "0": "Iran",
+            "1": "Islamic Republic of Iran",
+            "2": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u0633\u0644\u0627\u0645\u06cc \u0627\u06cc\u0631\u0627\u0646",
+            "3": "\u0627\u06cc\u0631\u0627\u0646",
+            "4": "IR",
+            "6": "Iran, Islamic Republic of",
+            "7": "Jomhuri-ye Esl\u0101mi-ye Ir\u0101n"
+        }
+    },
+    {
+        "name": "Albania",
+        "alpha2": "AL",
+        "alpha3": "ALB",
+        "numeric": "008",
+        "continent": "Europe",
+        "capital": "Tirana",
+        "timezone": "Europe\/Tirane",
+        "phone": "355",
+        "alternate_names": {
+            "0": "Albania",
+            "1": "Republic of Albania",
+            "2": "Republika e Shqip\u00ebris\u00eb",
+            "3": "Shqip\u00ebria",
+            "4": "AL",
+            "5": "Shqip\u00ebri",
+            "7": "Shqipnia"
+        }
+    },
+    {
+        "name": "Brazil",
+        "alpha2": "BR",
+        "alpha3": "BRA",
+        "numeric": "076",
+        "continent": "South America",
+        "capital": "Bras\u00edlia",
+        "timezone": "America\/Araguaina",
+        "phone": "55",
+        "alternate_names": [
+            "Brazil",
+            "Federative Republic of Brazil",
+            "Rep\u00fablica Federativa do Brasil",
+            "Brasil",
+            "BR"
+        ]
+    },
+    {
+        "name": "Serbia",
+        "alpha2": "RS",
+        "alpha3": "SRB",
+        "numeric": "688",
+        "continent": "Europe",
+        "capital": "Belgrade",
+        "timezone": "Europe\/Belgrade",
+        "phone": "381",
+        "alternate_names": {
+            "0": "Serbia",
+            "1": "Republic of Serbia",
+            "2": "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0440\u0431\u0438\u0458\u0430",
+            "3": "\u0421\u0440\u0431\u0438\u0458\u0430",
+            "4": "RS",
+            "5": "Srbija",
+            "8": "Republika Srbija"
+        }
+    },
+    {
+        "name": "Belize",
+        "alpha2": "BZ",
+        "alpha3": "BLZ",
+        "numeric": "084",
+        "continent": "North America",
+        "capital": "Belmopan",
+        "timezone": "America\/Belize",
+        "phone": "501",
+        "alternate_names": {
+            "0": "Belize",
+            "6": "Belice",
+            "8": "BZ"
+        }
+    },
+    {
+        "name": "Myanmar",
+        "alpha2": "MM",
+        "alpha3": "MMR",
+        "numeric": "104",
+        "continent": "Asia",
+        "capital": "Naypyidaw",
+        "timezone": "Asia\/Yangon",
+        "phone": "95",
+        "alternate_names": {
+            "0": "Myanmar",
+            "1": "Republic of the Union of Myanmar",
+            "2": "\u1015\u103c\u100a\u103a\u1011\u1031\u102c\u1004\u103a\u1005\u102f \u101e\u1019\u1039\u1019\u1010 \u1019\u103c\u1014\u103a\u1019\u102c\u1014\u102d\u102f\u1004\u103a\u1004\u1036\u1010\u1031\u102c\u103a",
+            "3": "\u1019\u103c\u1014\u103a\u1019\u102c",
+            "4": "MM",
+            "5": "Burma",
+            "7": "Pyidaunzu Thanm\u0103da My\u0103ma Nainngandaw"
+        }
+    },
+    {
+        "name": "Bhutan",
+        "alpha2": "BT",
+        "alpha3": "BTN",
+        "numeric": "064",
+        "continent": "Asia",
+        "capital": "Thimphu",
+        "timezone": "Asia\/Thimphu",
+        "phone": "975",
+        "alternate_names": [
+            "Bhutan",
+            "Kingdom of Bhutan",
+            "\u0f60\u0f56\u0fb2\u0f74\u0f42\u0f0b\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f41\u0f56\u0f0b",
+            "\u0f60\u0f56\u0fb2\u0f74\u0f42\u0f0b\u0f61\u0f74\u0f63\u0f0b",
+            "BT"
+        ]
+    },
+    {
+        "name": "Venezuela",
+        "alpha2": "VE",
+        "alpha3": "VEN",
+        "numeric": "862",
+        "continent": "South America",
+        "capital": "Caracas",
+        "timezone": "America\/Caracas",
+        "phone": "58",
+        "alternate_names": {
+            "0": "Venezuela",
+            "1": "Bolivarian Republic of Venezuela",
+            "2": "Rep\u00fablica Bolivariana de Venezuela",
+            "4": "VE",
+            "6": "Venezuela, Bolivarian Republic of"
+        }
+    },
+    {
+        "name": "Liberia",
+        "alpha2": "LR",
+        "alpha3": "LBR",
+        "numeric": "430",
+        "continent": "Africa",
+        "capital": "Monrovia",
+        "timezone": "Africa\/Monrovia",
+        "phone": "231",
+        "alternate_names": {
+            "0": "Liberia",
+            "1": "Republic of Liberia",
+            "4": "LR"
+        }
+    },
+    {
+        "name": "Jamaica",
+        "alpha2": "JM",
+        "alpha3": "JAM",
+        "numeric": "388",
+        "continent": "North America",
+        "capital": "Kingston",
+        "timezone": "America\/Jamaica",
+        "phone": "1876",
+        "alternate_names": {
+            "0": "Jamaica",
+            "6": "JM"
+        }
+    },
+    {
+        "name": "Poland",
+        "alpha2": "PL",
+        "alpha3": "POL",
+        "numeric": "616",
+        "continent": "Europe",
+        "capital": "Warsaw",
+        "timezone": "Europe\/Warsaw",
+        "phone": "48",
+        "alternate_names": [
+            "Poland",
+            "Republic of Poland",
+            "Rzeczpospolita Polska",
+            "Polska",
+            "PL"
+        ]
+    },
+    {
+        "name": "Cayman Islands",
+        "alpha2": "KY",
+        "alpha3": "CYM",
+        "numeric": "136",
+        "continent": "North America",
+        "capital": "George Town",
+        "timezone": "America\/Cayman",
+        "phone": "1345",
+        "alternate_names": {
+            "0": "Cayman Islands",
+            "4": "KY"
+        }
+    },
+    {
+        "name": "Brunei",
+        "alpha2": "BN",
+        "alpha3": "BRN",
+        "numeric": "096",
+        "continent": "Asia",
+        "capital": "Bandar Seri Begawan",
+        "timezone": "Asia\/Brunei",
+        "phone": "673",
+        "alternate_names": [
+            "Brunei",
+            "Nation of Brunei, Abode of Peace",
+            "Nation of Brunei, Abode Damai",
+            "Negara Brunei Darussalam",
+            "BN",
+            "Brunei Darussalam",
+            "Nation of Brunei",
+            "the Abode of Peace"
+        ]
+    },
+    {
+        "name": "Comoros",
+        "alpha2": "KM",
+        "alpha3": "COM",
+        "numeric": "174",
+        "continent": "Africa",
+        "capital": "Moroni",
+        "timezone": "Indian\/Comoro",
+        "phone": "269",
+        "alternate_names": {
+            "0": "Comoros",
+            "1": "Union of the Comoros",
+            "2": "\u0627\u0644\u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0642\u0645\u0631\u064a",
+            "3": "\u0627\u0644\u0642\u0645\u0631\u200e",
+            "4": "Union des Comores",
+            "5": "Comores",
+            "6": "Udzima wa Komori",
+            "7": "Komori",
+            "8": "KM",
+            "12": "al-Itti\u1e25\u0101d al-Qumur\u012b"
+        }
+    },
+    {
+        "name": "Guam",
+        "alpha2": "GU",
+        "alpha3": "GUM",
+        "numeric": "316",
+        "continent": "Oceania",
+        "capital": "Hag\u00e5t\u00f1a",
+        "timezone": "Pacific\/Guam",
+        "phone": "1671",
+        "alternate_names": {
+            "0": "Guam",
+            "2": "Gu\u00e5h\u00e5n",
+            "8": "GU"
+        }
+    },
+    {
+        "name": "Tonga",
+        "alpha2": "TO",
+        "alpha3": "TON",
+        "numeric": "776",
+        "continent": "Oceania",
+        "capital": "Nuku'alofa",
+        "timezone": "Pacific\/Tongatapu",
+        "phone": "676",
+        "alternate_names": {
+            "0": "Tonga",
+            "1": "Kingdom of Tonga",
+            "6": "TO"
+        }
+    },
+    {
+        "name": "Kiribati",
+        "alpha2": "KI",
+        "alpha3": "KIR",
+        "numeric": "296",
+        "continent": "Oceania",
+        "capital": "South Tarawa",
+        "timezone": "Pacific\/Kanton",
+        "phone": "686",
+        "alternate_names": {
+            "0": "Kiribati",
+            "1": "Independent and Sovereign Republic of Kiribati",
+            "4": "Ribaberiki Kiribati",
+            "6": "KI",
+            "7": "Republic of Kiribati"
+        }
+    },
+    {
+        "name": "Ghana",
+        "alpha2": "GH",
+        "alpha3": "GHA",
+        "numeric": "288",
+        "continent": "Africa",
+        "capital": "Accra",
+        "timezone": "Africa\/Accra",
+        "phone": "233",
+        "alternate_names": {
+            "0": "Ghana",
+            "1": "Republic of Ghana",
+            "4": "GH"
+        }
+    },
+    {
+        "name": "Chad",
+        "alpha2": "TD",
+        "alpha3": "TCD",
+        "numeric": "148",
+        "continent": "Africa",
+        "capital": "N'Djamena",
+        "timezone": "Africa\/Ndjamena",
+        "phone": "235",
+        "alternate_names": [
+            "Chad",
+            "Republic of Chad",
+            "\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u062a\u0634\u0627\u062f",
+            "\u062a\u0634\u0627\u062f\u200e",
+            "R\u00e9publique du Tchad",
+            "Tchad",
+            "TD"
+        ]
+    },
+    {
+        "name": "Zimbabwe",
+        "alpha2": "ZW",
+        "alpha3": "ZWE",
+        "numeric": "716",
+        "continent": "Africa",
+        "capital": "Harare",
+        "timezone": "Africa\/Harare",
+        "phone": "263",
+        "alternate_names": {
+            "0": "Zimbabwe",
+            "1": "Republic of Zimbabwe",
+            "32": "ZW"
+        }
+    },
+    {
+        "name": "Saint Martin",
+        "alpha2": "MF",
+        "alpha3": "MAF",
+        "numeric": "663",
+        "continent": "North America",
+        "capital": "Marigot",
+        "timezone": "America\/Marigot",
+        "phone": "590",
+        "alternate_names": {
+            "0": "Saint Martin",
+            "2": "Saint-Martin",
+            "4": "MF",
+            "5": "Collectivity of Saint Martin",
+            "6": "Collectivit\u00e9 de Saint-Martin",
+            "7": "Saint Martin (French part)"
+        }
+    },
+    {
+        "name": "Mongolia",
+        "alpha2": "MN",
+        "alpha3": "MNG",
+        "numeric": "496",
+        "continent": "Asia",
+        "capital": "Ulan Bator",
+        "timezone": "Asia\/Choibalsan",
+        "phone": "976",
+        "alternate_names": {
+            "0": "Mongolia",
+            "2": "\u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441",
+            "4": "MN"
+        }
+    },
+    {
+        "name": "Portugal",
+        "alpha2": "PT",
+        "alpha3": "PRT",
+        "numeric": "620",
+        "continent": "Europe",
+        "capital": "Lisbon",
+        "timezone": "Atlantic\/Azores",
+        "phone": "351",
+        "alternate_names": {
+            "0": "Portugal",
+            "1": "Portuguese Republic",
+            "2": "Rep\u00fablica portugu\u00eas",
+            "4": "PT",
+            "5": "Portuguesa",
+            "7": "Rep\u00fablica Portuguesa"
+        }
+    },
+    {
+        "name": "American Samoa",
+        "alpha2": "AS",
+        "alpha3": "ASM",
+        "numeric": "016",
+        "continent": "Oceania",
+        "capital": "Pago Pago",
+        "timezone": "Pacific\/Pago_Pago",
+        "phone": "1684",
+        "alternate_names": {
+            "0": "American Samoa",
+            "4": "S\u0101moa Amelika",
+            "6": "AS",
+            "7": "Amerika S\u0101moa",
+            "8": "Amelika S\u0101moa"
+        }
+    },
+    {
+        "name": "Republic of the Congo",
+        "alpha2": "CG",
+        "alpha3": "COG",
+        "numeric": "178",
+        "continent": "Africa",
+        "capital": "Brazzaville",
+        "timezone": "Africa\/Brazzaville",
+        "phone": "242",
+        "alternate_names": {
+            "0": "Republic of the Congo",
+            "2": "R\u00e9publique du Congo",
+            "4": "Repubilika ya Kongo",
+            "6": "Republ\u00edki ya Kong\u00f3",
+            "8": "CG",
+            "9": "Congo",
+            "10": "Congo-Brazzaville"
+        }
+    },
+    {
+        "name": "Belgium",
+        "alpha2": "BE",
+        "alpha3": "BEL",
+        "numeric": "056",
+        "continent": "Europe",
+        "capital": "Brussels",
+        "timezone": "Europe\/Brussels",
+        "phone": "32",
+        "alternate_names": {
+            "0": "Belgium",
+            "1": "Kingdom of Belgium",
+            "2": "K\u00f6nigreich Belgien",
+            "3": "Belgien",
+            "4": "Royaume de Belgique",
+            "5": "Belgique",
+            "6": "Koninkrijk Belgi\u00eb",
+            "7": "Belgi\u00eb",
+            "8": "BE",
+            "10": "Belgie"
+        }
+    },
+    {
+        "name": "Israel",
+        "alpha2": "IL",
+        "alpha3": "ISR",
+        "numeric": "376",
+        "continent": "Asia",
+        "capital": "Jerusalem",
+        "timezone": "Asia\/Jerusalem",
+        "phone": "972",
+        "alternate_names": {
+            "0": "Israel",
+            "1": "State of Israel",
+            "2": "\u062f\u0648\u0644\u0629 \u0625\u0633\u0631\u0627\u0626\u064a\u0644",
+            "3": "\u0625\u0633\u0631\u0627\u0626\u064a\u0644",
+            "4": "\u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+            "5": "\u05d9\u05e9\u05e8\u05d0\u05dc",
+            "6": "IL",
+            "8": "Med\u012bnat Yisr\u0101'el"
+        }
+    },
+    {
+        "name": "New Zealand",
+        "alpha2": "NZ",
+        "alpha3": "NZL",
+        "numeric": "554",
+        "continent": "Oceania",
+        "capital": "Wellington",
+        "timezone": "Pacific\/Auckland",
+        "phone": "64",
+        "alternate_names": {
+            "0": "New Zealand",
+            "4": "Aotearoa",
+            "8": "NZ"
+        }
+    },
+    {
+        "name": "Nicaragua",
+        "alpha2": "NI",
+        "alpha3": "NIC",
+        "numeric": "558",
+        "continent": "North America",
+        "capital": "Managua",
+        "timezone": "America\/Managua",
+        "phone": "505",
+        "alternate_names": {
+            "0": "Nicaragua",
+            "1": "Republic of Nicaragua",
+            "2": "Rep\u00fablica de Nicaragua",
+            "4": "NI"
+        }
+    },
+    {
+        "name": "Anguilla",
+        "alpha2": "AI",
+        "alpha3": "AIA",
+        "numeric": "660",
+        "continent": "North America",
+        "capital": "The Valley",
+        "timezone": "America\/Anguilla",
+        "phone": "1264",
+        "alternate_names": {
+            "0": "Anguilla",
+            "4": "AI"
+        }
+    }
+]

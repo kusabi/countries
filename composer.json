@@ -1,0 +1,32 @@
+{
+    "name": "kusabi/countries",
+    "description": "Classes and methods to help identify country names and codes",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Kusabi\\Countries\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.2",
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "ext-curl": "*",
+        "ext-dom": "*",
+        "friendsofphp/php-cs-fixer": "*",
+        "phan/phan": "*",
+        "phpunit/phpunit": "*",
+        "phpbench/phpbench": "*",
+        "symfony/var-dumper": "*"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Kusabi\\Countries\\Benchmarks\\": "benchmarks/",
+            "Kusabi\\Countries\\Meta\\": "meta/",
+            "Kusabi\\Countries\\Tests\\": "tests/"
+        }
+    }
+}

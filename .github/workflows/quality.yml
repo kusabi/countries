@@ -1,0 +1,130 @@
+name: quality
+on:
+  pull_request:
+    types: [opened, reopened, edited, synchronize]
+  push:
+    branches:
+      - main
+jobs:
+  fetch:
+    name: fetch
+    runs-on: ubuntu-latest
+    steps:
+      # Setup the correct PHP version
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '7.2'
+
+      # Check out the code
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      # Composer install
+      - name: Composer update
+        run: composer update
+
+      # Run the code sniffer
+      - name: Fetch data
+        run: ./meta/fetch
+
+      # Run the static analysis
+      - name: Compile data
+        run: ./meta/compile
+
+      # Upload the source file artifacts
+      - name: Upload the metadata
+        uses: actions/upload-artifact@v4
+        with:
+          name: metadata
+          path: meta/data
+  tests:
+    name: php ${{ matrix.php-version }}
+    runs-on: ubuntu-latest
+    needs: fetch
+    strategy:
+      matrix:
+        php-version: ['7.2', '7.3', '7.4', '8.0', '8.1', '8.2', '8.3']
+    steps:
+
+      # Set up the correct PHP version
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: ${{ matrix.php-version }}
+          coverage: xdebug
+
+      # Check out the code
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      # Composer install
+      - name: Run composer update
+        run: composer update
+
+      # Download the source file artifacts
+      - name: Download the metadata
+        uses: actions/download-artifact@v4
+        with:
+          name: metadata
+
+      # Run unit tests with code coverage
+      - name: Run phpunit
+        run: |
+          
+          if [[ $(php -r 'echo PHP_VERSION_ID;') -ge 80100 ]]; then
+            vendor/bin/phpunit --configuration phpunit-10.xml --coverage-clover=coverage/coverage.xml
+          else
+            vendor/bin/phpunit --configuration phpunit.xml --coverage-clover=coverage/coverage.xml
+          fi
+
+      # Upload the code coverage artifact
+      - name: Upload code coverage artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: coverage-${{ matrix.php-version }}
+          path: coverage/coverage.xml
+  standards:
+    name: standards
+    runs-on: ubuntu-latest
+    steps:
+      # Setup the correct PHP version
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '7.2'
+
+      # Check out the code
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      # Composer install
+      - name: Composer update
+        run: composer update
+
+      # Run the code sniffer
+      - name: Code sniffer
+        if: always()
+        run: vendor/bin/php-cs-fixer fix --dry-run --diff
+
+      # Run the static analysis
+      - name: Static analysis
+        if: always()
+        run: vendor/bin/phan
+  coverage:
+    name: Publish code coverage
+    runs-on: ubuntu-latest
+    needs: tests
+    steps:
+      # Check out the code
+      - uses: actions/checkout@v2
+
+      # Download the coverage artifact
+      - name: Download code coverage artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: coverage-7.2
+
+      # Upload coverage artifact
+      - name: Upload code coverage
+        run: bash <(curl -s https://codecov.io/bash) -Z -t ${{ secrets.CODECOV_TOKEN }} -f coverage.xml

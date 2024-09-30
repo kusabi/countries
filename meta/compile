@@ -1,0 +1,94 @@
+#!/bin/env php
+<?php
+
+use Kusabi\Countries\Country;
+
+include __DIR__.'/../vendor/autoload.php';
+
+$results = [];
+
+$google = json_decode(file_get_contents(__DIR__.'/data/google.json'), true);
+$iban = json_decode(file_get_contents(__DIR__.'/data/iban.json'), true);
+$uk = json_decode(file_get_contents(__DIR__.'/data/uk-government.json'), true);
+$rest = json_decode(file_get_contents(__DIR__.'/data/rest-countries.json'), true);
+
+foreach ($rest as $restCountry) {
+    $results[$restCountry['alpha2']] = $restCountry;
+}
+
+foreach ($uk as $ukCountry) {
+
+    $code = $ukCountry['alpha2'];
+
+    if (!isset($results[$code])) {
+        $results[$code] = $ukCountry;
+    }
+
+    $results[$code]['alpha2'] = $ukCountry['alpha2'];
+    $results[$code]['name'] = $results[$code]['name'] ?? $ukCountry['name'];
+
+    $results[$code]['alternate_names'] = array_merge(
+        $results[$code]['alternate_names'],
+        $ukCountry['alternate_names']
+    );
+}
+
+foreach ($iban as $ibanCountry) {
+    $code = $ibanCountry['alpha2'];
+
+    if (!isset($results[$code])) {
+        $results[$code] = $ibanCountry;
+    }
+
+    $results[$code]['alpha2'] = $ibanCountry['alpha2'];
+    $results[$code]['alpha3'] = $ibanCountry['alpha3'];
+    $results[$code]['numeric'] = $ibanCountry['numeric'];
+    $results[$code]['name'] = $results[$code]['name'] ?? $ibanCountry['name'];
+
+    $results[$code]['alternate_names'] = array_merge(
+        $results[$code]['alternate_names'],
+        $ibanCountry['alternate_names']
+    );
+}
+
+foreach ($google as $googleCountry) {
+    $code = $googleCountry['alpha2'];
+
+    if (!isset($results[$code])) {
+        $results[$code] = $googleCountry;
+    }
+
+    $results[$code]['alpha2'] = $googleCountry['alpha2'];
+    $results[$code]['name'] = $results[$code]['name'] ?? $googleCountry['name'];
+
+    $results[$code]['alternate_names'] = array_merge(
+        $results[$code]['alternate_names'],
+        $googleCountry['alternate_names']
+    );
+}
+
+$countries = [];
+foreach ($results as $code => $result) {
+
+    $results[$code]['alternate_names'] = array_map(function (string $name) {
+        return mb_convert_encoding($name, 'UTF-8', 'UTF-8');
+    }, $results[$code]['alternate_names']);
+
+    $results[$code]['alternate_names'] = array_unique($results[$code]['alternate_names']);
+
+    sort($results[$code]['alternate_names']);
+
+    $countries[$code] = new Country(
+        $results[$code]['name'],
+        $results[$code]['alpha2'],
+        $results[$code]['alpha3'],
+        $results[$code]['numeric'],
+        $results[$code]['continent'],
+        $results[$code]['capital'],
+        $results[$code]['timezone'],
+        $results[$code]['phone'],
+        $results[$code]['alternate_names']
+    );
+}
+
+file_put_contents(__DIR__.'/data/compiled.json', json_encode($countries, JSON_PRETTY_PRINT));

@@ -1,0 +1,2732 @@
+[
+    {
+        "name": "Afghanistan",
+        "alpha2": "AF",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Afghanistan",
+            "The Islamic Republic of Afghanistan"
+        ]
+    },
+    {
+        "name": "Albania",
+        "alpha2": "AL",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Albania",
+            "The Republic of Albania"
+        ]
+    },
+    {
+        "name": "Algeria",
+        "alpha2": "DZ",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Algeria",
+            "The People's Democratic Republic of Algeria"
+        ]
+    },
+    {
+        "name": "Andorra",
+        "alpha2": "AD",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Andorra",
+            "The Principality of Andorra"
+        ]
+    },
+    {
+        "name": "Angola",
+        "alpha2": "AO",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Angola",
+            "The Republic of Angola"
+        ]
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "alpha2": "AG",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Antigua and Barbuda",
+            "Antigua and Barbuda"
+        ]
+    },
+    {
+        "name": "Argentina",
+        "alpha2": "AR",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Argentina",
+            "The Argentine Republic"
+        ]
+    },
+    {
+        "name": "Armenia",
+        "alpha2": "AM",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Armenia",
+            "The Republic of Armenia"
+        ]
+    },
+    {
+        "name": "Australia",
+        "alpha2": "AU",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Australia",
+            "The Commonwealth of Australia"
+        ]
+    },
+    {
+        "name": "Austria",
+        "alpha2": "AT",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Austria",
+            "The Republic of Austria"
+        ]
+    },
+    {
+        "name": "Azerbaijan",
+        "alpha2": "AZ",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Azerbaijan",
+            "The Republic of Azerbaijan"
+        ]
+    },
+    {
+        "name": "Bahrain",
+        "alpha2": "BH",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Bahrain",
+            "The Kingdom of Bahrain"
+        ]
+    },
+    {
+        "name": "Bangladesh",
+        "alpha2": "BD",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Bangladesh",
+            "The People's Republic of Bangladesh"
+        ]
+    },
+    {
+        "name": "Barbados",
+        "alpha2": "BB",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Barbados",
+            "Barbados"
+        ]
+    },
+    {
+        "name": "Belarus",
+        "alpha2": "BY",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Belarus",
+            "The Republic of Belarus"
+        ]
+    },
+    {
+        "name": "Belgium",
+        "alpha2": "BE",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Belgium",
+            "The Kingdom of Belgium"
+        ]
+    },
+    {
+        "name": "Belize",
+        "alpha2": "BZ",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Belize",
+            "Belize"
+        ]
+    },
+    {
+        "name": "Benin",
+        "alpha2": "BJ",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Benin",
+            "The Republic of Benin"
+        ]
+    },
+    {
+        "name": "Bhutan",
+        "alpha2": "BT",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Bhutan",
+            "The Kingdom of Bhutan"
+        ]
+    },
+    {
+        "name": "Bolivia",
+        "alpha2": "BO",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Bolivia",
+            "The Plurinational State of Bolivia"
+        ]
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "alpha2": "BA",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Bosnia and Herzegovina",
+            "Bosnia and Herzegovina"
+        ]
+    },
+    {
+        "name": "Botswana",
+        "alpha2": "BW",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Botswana",
+            "The Republic of Botswana"
+        ]
+    },
+    {
+        "name": "Brazil",
+        "alpha2": "BR",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Brazil",
+            "The Federative Republic of Brazil"
+        ]
+    },
+    {
+        "name": "Brunei",
+        "alpha2": "BN",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Brunei",
+            "Brunei Darussalam"
+        ]
+    },
+    {
+        "name": "Bulgaria",
+        "alpha2": "BG",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Bulgaria",
+            "The Republic of Bulgaria"
+        ]
+    },
+    {
+        "name": "Burkina Faso",
+        "alpha2": "BF",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Burkina Faso",
+            "Burkina Faso"
+        ]
+    },
+    {
+        "name": "Burundi",
+        "alpha2": "BI",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Burundi",
+            "The Republic of Burundi"
+        ]
+    },
+    {
+        "name": "Cambodia",
+        "alpha2": "KH",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Cambodia",
+            "The Kingdom of Cambodia"
+        ]
+    },
+    {
+        "name": "Cameroon",
+        "alpha2": "CM",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Cameroon",
+            "The Republic of Cameroon"
+        ]
+    },
+    {
+        "name": "Canada",
+        "alpha2": "CA",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Canada",
+            "Canada"
+        ]
+    },
+    {
+        "name": "Cape Verde",
+        "alpha2": "CV",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Cape Verde",
+            "The Republic of Cabo Verde"
+        ]
+    },
+    {
+        "name": "Central African Republic",
+        "alpha2": "CF",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Central African Republic",
+            "The Central African Republic"
+        ]
+    },
+    {
+        "name": "Chad",
+        "alpha2": "TD",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Chad",
+            "The Republic of Chad"
+        ]
+    },
+    {
+        "name": "Chile",
+        "alpha2": "CL",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Chile",
+            "The Republic of Chile"
+        ]
+    },
+    {
+        "name": "China",
+        "alpha2": "CN",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "China",
+            "The People's Republic of China"
+        ]
+    },
+    {
+        "name": "Colombia",
+        "alpha2": "CO",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Colombia",
+            "The Republic of Colombia"
+        ]
+    },
+    {
+        "name": "Comoros",
+        "alpha2": "KM",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Comoros",
+            "The Union of the Comoros"
+        ]
+    },
+    {
+        "name": "Congo",
+        "alpha2": "CG",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Congo",
+            "The Republic of the Congo"
+        ]
+    },
+    {
+        "name": "Congo (Democratic Republic)",
+        "alpha2": "CD",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Congo (Democratic Republic)",
+            "The Democratic Republic of the Congo"
+        ]
+    },
+    {
+        "name": "Costa Rica",
+        "alpha2": "CR",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Costa Rica",
+            "The Republic of Costa Rica"
+        ]
+    },
+    {
+        "name": "Croatia",
+        "alpha2": "HR",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Croatia",
+            "The Republic of Croatia"
+        ]
+    },
+    {
+        "name": "Cuba",
+        "alpha2": "CU",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Cuba",
+            "The Republic of Cuba"
+        ]
+    },
+    {
+        "name": "Cyprus",
+        "alpha2": "CY",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Cyprus",
+            "The Republic of Cyprus"
+        ]
+    },
+    {
+        "name": "Czechia",
+        "alpha2": "CZ",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Czechia",
+            "The Czech Republic"
+        ]
+    },
+    {
+        "name": "Denmark",
+        "alpha2": "DK",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Denmark",
+            "The Kingdom of Denmark"
+        ]
+    },
+    {
+        "name": "Djibouti",
+        "alpha2": "DJ",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Djibouti",
+            "The Republic of Djibouti"
+        ]
+    },
+    {
+        "name": "Dominica",
+        "alpha2": "DM",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Dominica",
+            "The Commonwealth of Dominica"
+        ]
+    },
+    {
+        "name": "Dominican Republic",
+        "alpha2": "DO",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Dominican Republic",
+            "The Dominican Republic"
+        ]
+    },
+    {
+        "name": "East Timor",
+        "alpha2": "TL",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "East Timor",
+            "The Democratic Republic of Timor-Leste"
+        ]
+    },
+    {
+        "name": "Ecuador",
+        "alpha2": "EC",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Ecuador",
+            "The Republic of Ecuador"
+        ]
+    },
+    {
+        "name": "Egypt",
+        "alpha2": "EG",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Egypt",
+            "The Arab Republic of Egypt"
+        ]
+    },
+    {
+        "name": "El Salvador",
+        "alpha2": "SV",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "El Salvador",
+            "The Republic of El Salvador"
+        ]
+    },
+    {
+        "name": "Equatorial Guinea",
+        "alpha2": "GQ",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Equatorial Guinea",
+            "The Republic of Equatorial Guinea"
+        ]
+    },
+    {
+        "name": "Eritrea",
+        "alpha2": "ER",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Eritrea",
+            "The State of Eritrea"
+        ]
+    },
+    {
+        "name": "Estonia",
+        "alpha2": "EE",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Estonia",
+            "The Republic of Estonia"
+        ]
+    },
+    {
+        "name": "Eswatini",
+        "alpha2": "SZ",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Eswatini",
+            "Kingdom of Eswatini"
+        ]
+    },
+    {
+        "name": "Ethiopia",
+        "alpha2": "ET",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Ethiopia",
+            "The Federal Democratic Republic of Ethiopia"
+        ]
+    },
+    {
+        "name": "Fiji",
+        "alpha2": "FJ",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Fiji",
+            "The Republic of Fiji"
+        ]
+    },
+    {
+        "name": "Finland",
+        "alpha2": "FI",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Finland",
+            "The Republic of Finland"
+        ]
+    },
+    {
+        "name": "France",
+        "alpha2": "FR",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "France",
+            "The French Republic"
+        ]
+    },
+    {
+        "name": "Gabon",
+        "alpha2": "GA",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Gabon",
+            "The Gabonese Republic"
+        ]
+    },
+    {
+        "name": "Georgia",
+        "alpha2": "GE",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Georgia",
+            "Georgia"
+        ]
+    },
+    {
+        "name": "Germany",
+        "alpha2": "DE",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Germany",
+            "The Federal Republic of Germany"
+        ]
+    },
+    {
+        "name": "Ghana",
+        "alpha2": "GH",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Ghana",
+            "The Republic of Ghana"
+        ]
+    },
+    {
+        "name": "Greece",
+        "alpha2": "GR",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Greece",
+            "The Hellenic Republic"
+        ]
+    },
+    {
+        "name": "Grenada",
+        "alpha2": "GD",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Grenada",
+            "Grenada"
+        ]
+    },
+    {
+        "name": "Guatemala",
+        "alpha2": "GT",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Guatemala",
+            "The Republic of Guatemala"
+        ]
+    },
+    {
+        "name": "Guinea",
+        "alpha2": "GN",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Guinea",
+            "The Republic of Guinea"
+        ]
+    },
+    {
+        "name": "Guinea-Bissau",
+        "alpha2": "GW",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Guinea-Bissau",
+            "The Republic of Guinea-Bissau"
+        ]
+    },
+    {
+        "name": "Guyana",
+        "alpha2": "GY",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Guyana",
+            "The Co-operative Republic of Guyana"
+        ]
+    },
+    {
+        "name": "Haiti",
+        "alpha2": "HT",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Haiti",
+            "The Republic of Haiti"
+        ]
+    },
+    {
+        "name": "Honduras",
+        "alpha2": "HN",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Honduras",
+            "The Republic of Honduras"
+        ]
+    },
+    {
+        "name": "Hungary",
+        "alpha2": "HU",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Hungary",
+            "Hungary"
+        ]
+    },
+    {
+        "name": "Iceland",
+        "alpha2": "IS",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Iceland",
+            "Iceland"
+        ]
+    },
+    {
+        "name": "India",
+        "alpha2": "IN",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "India",
+            "The Republic of India"
+        ]
+    },
+    {
+        "name": "Indonesia",
+        "alpha2": "ID",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Indonesia",
+            "The Republic of Indonesia"
+        ]
+    },
+    {
+        "name": "Iran",
+        "alpha2": "IR",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Iran",
+            "The Islamic Republic of Iran"
+        ]
+    },
+    {
+        "name": "Iraq",
+        "alpha2": "IQ",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Iraq",
+            "The Republic of Iraq"
+        ]
+    },
+    {
+        "name": "Ireland",
+        "alpha2": "IE",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Ireland",
+            "Ireland"
+        ]
+    },
+    {
+        "name": "Israel",
+        "alpha2": "IL",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Israel",
+            "The State of Israel"
+        ]
+    },
+    {
+        "name": "Italy",
+        "alpha2": "IT",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Italy",
+            "The Italian Republic"
+        ]
+    },
+    {
+        "name": "Ivory Coast",
+        "alpha2": "CI",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Ivory Coast",
+            "The Republic of C?te D?Ivoire"
+        ]
+    },
+    {
+        "name": "Jamaica",
+        "alpha2": "JM",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Jamaica",
+            "Jamaica"
+        ]
+    },
+    {
+        "name": "Japan",
+        "alpha2": "JP",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Japan",
+            "Japan"
+        ]
+    },
+    {
+        "name": "Jordan",
+        "alpha2": "JO",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Jordan",
+            "The Hashemite Kingdom of Jordan"
+        ]
+    },
+    {
+        "name": "Kazakhstan",
+        "alpha2": "KZ",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Kazakhstan",
+            "The Republic of Kazakhstan"
+        ]
+    },
+    {
+        "name": "Kenya",
+        "alpha2": "KE",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Kenya",
+            "The Republic of Kenya"
+        ]
+    },
+    {
+        "name": "Kiribati",
+        "alpha2": "KI",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Kiribati",
+            "The Republic of Kiribati"
+        ]
+    },
+    {
+        "name": "Kosovo",
+        "alpha2": "XK",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Kosovo",
+            "The Republic of Kosovo"
+        ]
+    },
+    {
+        "name": "Kuwait",
+        "alpha2": "KW",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Kuwait",
+            "The State of Kuwait"
+        ]
+    },
+    {
+        "name": "Kyrgyzstan",
+        "alpha2": "KG",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Kyrgyzstan",
+            "The Kyrgyz Republic"
+        ]
+    },
+    {
+        "name": "Laos",
+        "alpha2": "LA",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Laos",
+            "The Lao People's Democratic Republic"
+        ]
+    },
+    {
+        "name": "Latvia",
+        "alpha2": "LV",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Latvia",
+            "The Republic of Latvia"
+        ]
+    },
+    {
+        "name": "Lebanon",
+        "alpha2": "LB",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Lebanon",
+            "The Lebanese Republic"
+        ]
+    },
+    {
+        "name": "Lesotho",
+        "alpha2": "LS",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Lesotho",
+            "The Kingdom of Lesotho"
+        ]
+    },
+    {
+        "name": "Liberia",
+        "alpha2": "LR",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Liberia",
+            "The Republic of Liberia"
+        ]
+    },
+    {
+        "name": "Libya",
+        "alpha2": "LY",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Libya",
+            "State of Libya"
+        ]
+    },
+    {
+        "name": "Liechtenstein",
+        "alpha2": "LI",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Liechtenstein",
+            "The Principality of Liechtenstein"
+        ]
+    },
+    {
+        "name": "Lithuania",
+        "alpha2": "LT",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Lithuania",
+            "The Republic of Lithuania"
+        ]
+    },
+    {
+        "name": "Luxembourg",
+        "alpha2": "LU",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Luxembourg",
+            "The Grand Duchy of Luxembourg"
+        ]
+    },
+    {
+        "name": "Madagascar",
+        "alpha2": "MG",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Madagascar",
+            "The Republic of Madagascar"
+        ]
+    },
+    {
+        "name": "Malawi",
+        "alpha2": "MW",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Malawi",
+            "The Republic of Malawi"
+        ]
+    },
+    {
+        "name": "Malaysia",
+        "alpha2": "MY",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Malaysia",
+            "Malaysia"
+        ]
+    },
+    {
+        "name": "Maldives",
+        "alpha2": "MV",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Maldives",
+            "The Republic of Maldives"
+        ]
+    },
+    {
+        "name": "Mali",
+        "alpha2": "ML",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Mali",
+            "The Republic of Mali"
+        ]
+    },
+    {
+        "name": "Malta",
+        "alpha2": "MT",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Malta",
+            "The Republic of Malta"
+        ]
+    },
+    {
+        "name": "Marshall Islands",
+        "alpha2": "MH",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Marshall Islands",
+            "The Republic of the Marshall Islands"
+        ]
+    },
+    {
+        "name": "Mauritania",
+        "alpha2": "MR",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Mauritania",
+            "The Islamic Republic of Mauritania"
+        ]
+    },
+    {
+        "name": "Mauritius",
+        "alpha2": "MU",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Mauritius",
+            "The Republic of Mauritius"
+        ]
+    },
+    {
+        "name": "Mexico",
+        "alpha2": "MX",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Mexico",
+            "The United Mexican States"
+        ]
+    },
+    {
+        "name": "Federated States of Micronesia",
+        "alpha2": "FM",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Federated States of Micronesia",
+            "Federated States of Micronesia"
+        ]
+    },
+    {
+        "name": "Moldova",
+        "alpha2": "MD",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Moldova",
+            "The Republic of Moldova"
+        ]
+    },
+    {
+        "name": "Monaco",
+        "alpha2": "MC",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Monaco",
+            "The Principality of Monaco"
+        ]
+    },
+    {
+        "name": "Mongolia",
+        "alpha2": "MN",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Mongolia",
+            "Mongolia"
+        ]
+    },
+    {
+        "name": "Montenegro",
+        "alpha2": "ME",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Montenegro",
+            "Montenegro"
+        ]
+    },
+    {
+        "name": "Morocco",
+        "alpha2": "MA",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Morocco",
+            "The Kingdom of Morocco"
+        ]
+    },
+    {
+        "name": "Mozambique",
+        "alpha2": "MZ",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Mozambique",
+            "The Republic of Mozambique"
+        ]
+    },
+    {
+        "name": "Myanmar (Burma)",
+        "alpha2": "MM",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Myanmar (Burma)",
+            "The Republic of the Union of Myanmar"
+        ]
+    },
+    {
+        "name": "Namibia",
+        "alpha2": "NA",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Namibia",
+            "The Republic of Namibia"
+        ]
+    },
+    {
+        "name": "Nauru",
+        "alpha2": "NR",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Nauru",
+            "The Republic of Nauru"
+        ]
+    },
+    {
+        "name": "Nepal",
+        "alpha2": "NP",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Nepal",
+            "Nepal"
+        ]
+    },
+    {
+        "name": "Netherlands",
+        "alpha2": "NL",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Netherlands",
+            "The Kingdom of the Netherlands"
+        ]
+    },
+    {
+        "name": "New Zealand",
+        "alpha2": "NZ",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "New Zealand",
+            "New Zealand"
+        ]
+    },
+    {
+        "name": "Nicaragua",
+        "alpha2": "NI",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Nicaragua",
+            "The Republic of Nicaragua"
+        ]
+    },
+    {
+        "name": "Niger",
+        "alpha2": "NE",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Niger",
+            "The Republic of Niger"
+        ]
+    },
+    {
+        "name": "Nigeria",
+        "alpha2": "NG",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Nigeria",
+            "The Federal Republic of Nigeria"
+        ]
+    },
+    {
+        "name": "North Korea",
+        "alpha2": "KP",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "North Korea",
+            "The Democratic People's Republic of Korea"
+        ]
+    },
+    {
+        "name": "North Macedonia",
+        "alpha2": "MK",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "North Macedonia",
+            "Republic of North Macedonia"
+        ]
+    },
+    {
+        "name": "Norway",
+        "alpha2": "NO",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Norway",
+            "The Kingdom of Norway"
+        ]
+    },
+    {
+        "name": "Oman",
+        "alpha2": "OM",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Oman",
+            "The Sultanate of Oman"
+        ]
+    },
+    {
+        "name": "Pakistan",
+        "alpha2": "PK",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Pakistan",
+            "The Islamic Republic of Pakistan"
+        ]
+    },
+    {
+        "name": "Palau",
+        "alpha2": "PW",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Palau",
+            "The Republic of Palau"
+        ]
+    },
+    {
+        "name": "Panama",
+        "alpha2": "PA",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Panama",
+            "The Republic of Panama"
+        ]
+    },
+    {
+        "name": "Papua New Guinea",
+        "alpha2": "PG",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Papua New Guinea",
+            "The Independent State of Papua New Guinea"
+        ]
+    },
+    {
+        "name": "Paraguay",
+        "alpha2": "PY",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Paraguay",
+            "The Republic of Paraguay"
+        ]
+    },
+    {
+        "name": "Peru",
+        "alpha2": "PE",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Peru",
+            "The Republic of Peru"
+        ]
+    },
+    {
+        "name": "Philippines",
+        "alpha2": "PH",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Philippines",
+            "The Republic of the Philippines"
+        ]
+    },
+    {
+        "name": "Poland",
+        "alpha2": "PL",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Poland",
+            "The Republic of Poland"
+        ]
+    },
+    {
+        "name": "Portugal",
+        "alpha2": "PT",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Portugal",
+            "The Portuguese Republic"
+        ]
+    },
+    {
+        "name": "Qatar",
+        "alpha2": "QA",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Qatar",
+            "The State of Qatar"
+        ]
+    },
+    {
+        "name": "Romania",
+        "alpha2": "RO",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Romania",
+            "Romania"
+        ]
+    },
+    {
+        "name": "Russia",
+        "alpha2": "RU",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Russia",
+            "The Russian Federation"
+        ]
+    },
+    {
+        "name": "Rwanda",
+        "alpha2": "RW",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Rwanda",
+            "The Republic of Rwanda"
+        ]
+    },
+    {
+        "name": "St Kitts and Nevis",
+        "alpha2": "KN",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "St Kitts and Nevis",
+            "The Federation of Saint Christopher and Nevis"
+        ]
+    },
+    {
+        "name": "St Lucia",
+        "alpha2": "LC",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "St Lucia",
+            "Saint Lucia"
+        ]
+    },
+    {
+        "name": "St Vincent",
+        "alpha2": "VC",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "St Vincent",
+            "Saint Vincent and the Grenadines"
+        ]
+    },
+    {
+        "name": "Samoa",
+        "alpha2": "WS",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Samoa",
+            "The Independent State of Samoa"
+        ]
+    },
+    {
+        "name": "San Marino",
+        "alpha2": "SM",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "San Marino",
+            "The Republic of San Marino"
+        ]
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "alpha2": "ST",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Sao Tome and Principe",
+            "The Democratic Republic of Sao Tome and Principe"
+        ]
+    },
+    {
+        "name": "Saudi Arabia",
+        "alpha2": "SA",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Saudi Arabia",
+            "The Kingdom of Saudi Arabia"
+        ]
+    },
+    {
+        "name": "Senegal",
+        "alpha2": "SN",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Senegal",
+            "The Republic of Senegal"
+        ]
+    },
+    {
+        "name": "Serbia",
+        "alpha2": "RS",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Serbia",
+            "The Republic of Serbia"
+        ]
+    },
+    {
+        "name": "Seychelles",
+        "alpha2": "SC",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Seychelles",
+            "The Republic of Seychelles"
+        ]
+    },
+    {
+        "name": "Sierra Leone",
+        "alpha2": "SL",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Sierra Leone",
+            "The Republic of Sierra Leone"
+        ]
+    },
+    {
+        "name": "Singapore",
+        "alpha2": "SG",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Singapore",
+            "The Republic of Singapore"
+        ]
+    },
+    {
+        "name": "Slovakia",
+        "alpha2": "SK",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Slovakia",
+            "The Slovak Republic"
+        ]
+    },
+    {
+        "name": "Slovenia",
+        "alpha2": "SI",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Slovenia",
+            "The Republic of Slovenia"
+        ]
+    },
+    {
+        "name": "Solomon Islands",
+        "alpha2": "SB",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Solomon Islands",
+            "Solomon Islands"
+        ]
+    },
+    {
+        "name": "Somalia",
+        "alpha2": "SO",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Somalia",
+            "Federal Republic of Somalia"
+        ]
+    },
+    {
+        "name": "South Africa",
+        "alpha2": "ZA",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "South Africa",
+            "The Republic of South Africa"
+        ]
+    },
+    {
+        "name": "South Korea",
+        "alpha2": "KR",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "South Korea",
+            "The Republic of Korea"
+        ]
+    },
+    {
+        "name": "South Sudan",
+        "alpha2": "SS",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "South Sudan",
+            "The Republic of South Sudan"
+        ]
+    },
+    {
+        "name": "Spain",
+        "alpha2": "ES",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Spain",
+            "The Kingdom of Spain"
+        ]
+    },
+    {
+        "name": "Sri Lanka",
+        "alpha2": "LK",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Sri Lanka",
+            "The Democratic Socialist Republic of Sri Lanka"
+        ]
+    },
+    {
+        "name": "Sudan",
+        "alpha2": "SD",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Sudan",
+            "The Republic of the Sudan"
+        ]
+    },
+    {
+        "name": "Suriname",
+        "alpha2": "SR",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Suriname",
+            "The Republic of Suriname"
+        ]
+    },
+    {
+        "name": "Sweden",
+        "alpha2": "SE",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Sweden",
+            "The Kingdom of Sweden"
+        ]
+    },
+    {
+        "name": "Switzerland",
+        "alpha2": "CH",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Switzerland",
+            "The Swiss Confederation"
+        ]
+    },
+    {
+        "name": "Syria",
+        "alpha2": "SY",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Syria",
+            "The Syrian Arab Republic"
+        ]
+    },
+    {
+        "name": "Tajikistan",
+        "alpha2": "TJ",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Tajikistan",
+            "The Republic of Tajikistan"
+        ]
+    },
+    {
+        "name": "Tanzania",
+        "alpha2": "TZ",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Tanzania",
+            "The United Republic of Tanzania"
+        ]
+    },
+    {
+        "name": "Thailand",
+        "alpha2": "TH",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Thailand",
+            "The Kingdom of Thailand"
+        ]
+    },
+    {
+        "name": "The Bahamas",
+        "alpha2": "BS",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "The Bahamas",
+            "The Commonwealth of The Bahamas"
+        ]
+    },
+    {
+        "name": "The Gambia",
+        "alpha2": "GM",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "The Gambia",
+            "The Republic of The Gambia"
+        ]
+    },
+    {
+        "name": "Togo",
+        "alpha2": "TG",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Togo",
+            "The Togolese Republic"
+        ]
+    },
+    {
+        "name": "Tonga",
+        "alpha2": "TO",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Tonga",
+            "The Kingdom of Tonga"
+        ]
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "alpha2": "TT",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Trinidad and Tobago",
+            "The Republic of Trinidad and Tobago"
+        ]
+    },
+    {
+        "name": "Tunisia",
+        "alpha2": "TN",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Tunisia",
+            "Republic of Tunisia"
+        ]
+    },
+    {
+        "name": "Turkey",
+        "alpha2": "TR",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Turkey",
+            "Republic of T?rkiye"
+        ]
+    },
+    {
+        "name": "Turkmenistan",
+        "alpha2": "TM",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Turkmenistan",
+            "Turkmenistan"
+        ]
+    },
+    {
+        "name": "Tuvalu",
+        "alpha2": "TV",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Tuvalu",
+            "Tuvalu"
+        ]
+    },
+    {
+        "name": "Uganda",
+        "alpha2": "UG",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Uganda",
+            "The Republic of Uganda"
+        ]
+    },
+    {
+        "name": "Ukraine",
+        "alpha2": "UA",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Ukraine",
+            "Ukraine"
+        ]
+    },
+    {
+        "name": "United Arab Emirates",
+        "alpha2": "AE",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "United Arab Emirates",
+            "The United Arab Emirates"
+        ]
+    },
+    {
+        "name": "United Kingdom",
+        "alpha2": "GB",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "United Kingdom",
+            "The United Kingdom of Great Britain and Northern Ireland"
+        ]
+    },
+    {
+        "name": "United States",
+        "alpha2": "US",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "United States",
+            "The United States of America"
+        ]
+    },
+    {
+        "name": "Uruguay",
+        "alpha2": "UY",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Uruguay",
+            "The Oriental Republic of Uruguay"
+        ]
+    },
+    {
+        "name": "Uzbekistan",
+        "alpha2": "UZ",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Uzbekistan",
+            "The Republic of Uzbekistan"
+        ]
+    },
+    {
+        "name": "Vanuatu",
+        "alpha2": "VU",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Vanuatu",
+            "The Republic of Vanuatu"
+        ]
+    },
+    {
+        "name": "Vatican City",
+        "alpha2": "VA",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Vatican City",
+            "Vatican City State"
+        ]
+    },
+    {
+        "name": "Venezuela",
+        "alpha2": "VE",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Venezuela",
+            "The Bolivarian Republic of Venezuela"
+        ]
+    },
+    {
+        "name": "Vietnam",
+        "alpha2": "VN",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Vietnam",
+            "The Socialist Republic of Viet Nam"
+        ]
+    },
+    {
+        "name": "Yemen",
+        "alpha2": "YE",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Yemen",
+            "The Republic of Yemen"
+        ]
+    },
+    {
+        "name": "Zambia",
+        "alpha2": "ZM",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Zambia",
+            "The Republic of Zambia"
+        ]
+    },
+    {
+        "name": "Zimbabwe",
+        "alpha2": "ZW",
+        "alpha3": "",
+        "numeric": "",
+        "continent": "",
+        "capital": "",
+        "timezone": "",
+        "phone": "",
+        "alternate_names": [
+            "Zimbabwe",
+            "The Republic of Zimbabwe"
+        ]
+    }
+]
