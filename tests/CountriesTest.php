@@ -2,9 +2,11 @@
 
 namespace Kusabi\Countries\Tests;
 
+use ArrayIterator;
 use Kusabi\Countries\Countries;
 use Kusabi\Countries\Country;
 use PHPUnit\Framework\TestCase;
+use RuntimeException;
 
 class CountriesTest extends TestCase
 {
@@ -67,73 +69,6 @@ class CountriesTest extends TestCase
     }
 
     /**
-     * @dataProvider provideCountryCodeOrg
-     */
-    public function testCountryCodeOrgCodes(
-        string $name,
-        string $alpha2,
-        string $alpha3,
-        string $numeric,
-        string $continent,
-        string $capital,
-        string $timezone,
-        string $phone,
-        array $alternate_names
-    ) {
-        $countries = new Countries();
-
-        foreach (['short', 'full'] as $fetchType) {
-            $fromName = $fetchType === 'full' ? $countries->getFromName($name) : $countries->get($name);
-            $this->assertSame($name, $fromName->getName());
-            $this->assertTrue($fromName->usesName($name));
-            $this->assertSame($alpha2, $fromName->getAlpha2());
-            $this->assertSame($alpha3, $fromName->getAlpha3());
-            $this->assertSame($numeric, $fromName->getNumeric());
-            $this->assertSame($phone, $fromName->getPhone());
-            $this->assertSame($continent, $fromName->getContinent());
-            $this->assertSame($capital, $fromName->getCapital());
-            $this->assertSame($timezone, $fromName->getTimezone());
-            $this->assertSame($alternate_names, array_intersect($alternate_names, $fromName->getAlternativeNames()));
-
-            $fromAlpha2 = $fetchType === 'full' ? $countries->getFromAlpha2($alpha2) : $countries->get($alpha2);
-            $this->assertSame($name, $fromAlpha2->getName());
-            $this->assertTrue($fromAlpha2->usesName($name));
-            $this->assertSame($alpha2, $fromAlpha2->getAlpha2());
-            $this->assertSame($alpha3, $fromAlpha2->getAlpha3());
-            $this->assertSame($numeric, $fromAlpha2->getNumeric());
-            $this->assertSame($phone, $fromAlpha2->getPhone());
-            $this->assertSame($continent, $fromAlpha2->getContinent());
-            $this->assertSame($capital, $fromAlpha2->getCapital());
-            $this->assertSame($timezone, $fromAlpha2->getTimezone());
-            $this->assertSame($alternate_names, array_intersect($alternate_names, $fromAlpha2->getAlternativeNames()));
-
-            $fromAlpha3 = $fetchType === 'full' ? $countries->getFromAlpha3($alpha3) : $countries->get($alpha3);
-            $this->assertSame($name, $fromAlpha3->getName());
-            $this->assertTrue($fromAlpha3->usesName($name));
-            $this->assertSame($alpha2, $fromAlpha3->getAlpha2());
-            $this->assertSame($alpha3, $fromAlpha3->getAlpha3());
-            $this->assertSame($numeric, $fromAlpha3->getNumeric());
-            $this->assertSame($phone, $fromAlpha3->getPhone());
-            $this->assertSame($continent, $fromAlpha3->getContinent());
-            $this->assertSame($capital, $fromAlpha3->getCapital());
-            $this->assertSame($timezone, $fromAlpha3->getTimezone());
-            $this->assertSame($alternate_names, array_intersect($alternate_names, $fromAlpha3->getAlternativeNames()));
-
-            $fromNumeric = $fetchType === 'full' ? $countries->getFromNumeric($numeric) : $countries->get($numeric);
-            $this->assertSame($name, $fromNumeric->getName());
-            $this->assertTrue($fromNumeric->usesName($name));
-            $this->assertSame($alpha2, $fromNumeric->getAlpha2());
-            $this->assertSame($alpha3, $fromNumeric->getAlpha3());
-            $this->assertSame($numeric, $fromNumeric->getNumeric());
-            $this->assertSame($phone, $fromNumeric->getPhone());
-            $this->assertSame($continent, $fromNumeric->getContinent());
-            $this->assertSame($capital, $fromNumeric->getCapital());
-            $this->assertSame($timezone, $fromNumeric->getTimezone());
-            $this->assertSame($alternate_names, array_intersect($alternate_names, $fromNumeric->getAlternativeNames()));
-        }
-    }
-
-    /**
      * @dataProvider provideCompiled
      */
     public function testCompiled(
@@ -161,101 +96,105 @@ class CountriesTest extends TestCase
             'alternate_names' => $alternate_names
         ];
 
-        foreach (['short', 'full'] as $fetchType) {
-            $fromName = $fetchType === 'full' ? $countries->getFromName($name) : $countries->get($name);
-            $this->assertSame($name, $fromName->getName());
-            $this->assertTrue($fromName->usesName($name));
-            $this->assertSame($alpha2, $fromName->getAlpha2());
-            $this->assertSame($alpha3, $fromName->getAlpha3());
-            $this->assertSame($numeric, $fromName->getNumeric());
-            $this->assertSame($phone, $fromName->getPhone());
-            $this->assertSame($continent, $fromName->getContinent());
-            $this->assertSame($capital, $fromName->getCapital());
-            $this->assertSame($timezone, $fromName->getTimezone());
-            $this->assertSame($alternate_names, array_intersect($alternate_names, $fromName->getAlternativeNames()));
-            $this->assertSame($outputArray, $fromName->toArray());
-            $this->assertSame($outputArray, $fromName->jsonSerialize());
+        $lookups = [
+            $countries->get($name),
+            $countries->get($alpha2),
+            $countries->get($alpha3),
+            $countries->get($numeric),
+            Country::fromArray($countries->get($name)->toArray()),
+            $countries->getFromCallback(function (Country $country) use ($name) {
+                return $country->usesName($name);
+            }),
+            $countries->getFromCallback(function (Country $country) use ($alpha2) {
+                return $country->getAlpha2() === $alpha2;
+            }),
+            $countries->getFromCallback(function (Country $country) use ($alpha3) {
+                return $country->getAlpha3() === $alpha3;
+            }),
+            $countries->getFromCallback(function (Country $country) use ($numeric) {
+                return $country->getNumeric() === $numeric;
+            })
+        ];
 
-            $fromAlpha2 = $fetchType === 'full' ? $countries->getFromAlpha2($alpha2) : $countries->get($alpha2);
-            $this->assertSame($name, $fromAlpha2->getName());
-            $this->assertTrue($fromAlpha2->usesName($name));
-            $this->assertSame($alpha2, $fromAlpha2->getAlpha2());
-            $this->assertSame($alpha3, $fromAlpha2->getAlpha3());
-            $this->assertSame($numeric, $fromAlpha2->getNumeric());
-            $this->assertSame($phone, $fromAlpha2->getPhone());
-            $this->assertSame($continent, $fromAlpha2->getContinent());
-            $this->assertSame($capital, $fromAlpha2->getCapital());
-            $this->assertSame($timezone, $fromAlpha2->getTimezone());
-            $this->assertSame($alternate_names, array_intersect($alternate_names, $fromAlpha2->getAlternativeNames()));
-            $this->assertSame($outputArray, $fromAlpha2->toArray());
-            $this->assertSame($outputArray, $fromAlpha2->jsonSerialize());
-
-            $fromAlpha3 = $fetchType === 'full' ? $countries->getFromAlpha3($alpha3) : $countries->get($alpha3);
-            $this->assertSame($name, $fromAlpha3->getName());
-            $this->assertTrue($fromAlpha3->usesName($name));
-            $this->assertSame($alpha2, $fromAlpha3->getAlpha2());
-            $this->assertSame($alpha3, $fromAlpha3->getAlpha3());
-            $this->assertSame($numeric, $fromAlpha3->getNumeric());
-            $this->assertSame($phone, $fromAlpha3->getPhone());
-            $this->assertSame($continent, $fromAlpha3->getContinent());
-            $this->assertSame($capital, $fromAlpha3->getCapital());
-            $this->assertSame($timezone, $fromAlpha3->getTimezone());
-            $this->assertSame($alternate_names, array_intersect($alternate_names, $fromAlpha3->getAlternativeNames()));
-            $this->assertSame($outputArray, $fromAlpha3->toArray());
-            $this->assertSame($outputArray, $fromAlpha3->jsonSerialize());
-
-            $fromNumeric = $fetchType === 'full' ? $countries->getFromNumeric($numeric) : $countries->get($numeric);
-            $this->assertSame($name, $fromNumeric->getName());
-            $this->assertTrue($fromNumeric->usesName($name));
-            $this->assertSame($alpha2, $fromNumeric->getAlpha2());
-            $this->assertSame($alpha3, $fromNumeric->getAlpha3());
-            $this->assertSame($numeric, $fromNumeric->getNumeric());
-            $this->assertSame($phone, $fromNumeric->getPhone());
-            $this->assertSame($continent, $fromNumeric->getContinent());
-            $this->assertSame($capital, $fromNumeric->getCapital());
-            $this->assertSame($timezone, $fromNumeric->getTimezone());
-            $this->assertSame($alternate_names, array_intersect($alternate_names, $fromNumeric->getAlternativeNames()));
-            $this->assertSame($outputArray, $fromNumeric->toArray());
-            $this->assertSame($outputArray, $fromNumeric->jsonSerialize());
+        foreach ($lookups as $country) {
+            $this->assertSame($name, $country->getName());
+            $this->assertTrue($country->usesName($name));
+            $this->assertSame($alpha2, $country->getAlpha2());
+            $this->assertSame($alpha3, $country->getAlpha3());
+            $this->assertSame($numeric, $country->getNumeric());
+            $this->assertSame($phone, $country->getPhone());
+            $this->assertSame($continent, $country->getContinent());
+            $this->assertSame($capital, $country->getCapital());
+            $this->assertSame($timezone, $country->getTimezone());
+            $this->assertSame($alternate_names, array_intersect($alternate_names, $country->getAlternativeNames()));
+            $this->assertSame($outputArray, $country->toArray());
+            $this->assertSame($outputArray, $country->jsonSerialize());
         }
-
-        $fromArray = Country::fromArray($fromNumeric->toArray());
-        $this->assertSame($name, $fromArray->getName());
-        $this->assertTrue($fromArray->usesName($name));
-        $this->assertSame($alpha2, $fromArray->getAlpha2());
-        $this->assertSame($alpha3, $fromArray->getAlpha3());
-        $this->assertSame($numeric, $fromArray->getNumeric());
-        $this->assertSame($phone, $fromArray->getPhone());
-        $this->assertSame($continent, $fromArray->getContinent());
-        $this->assertSame($capital, $fromArray->getCapital());
-        $this->assertSame($timezone, $fromArray->getTimezone());
-        $this->assertSame($alternate_names, array_intersect($alternate_names, $fromArray->getAlternativeNames()));
-        $this->assertSame($outputArray, $fromArray->toArray());
-        $this->assertSame($outputArray, $fromArray->jsonSerialize());
     }
 
-    public function testGetFromAlpha2Null()
-    {
+    /**
+     * @dataProvider provideCountryCodeOrg
+     */
+    public function testCountryCodeOrgCodes(
+        string $name,
+        string $alpha2,
+        string $alpha3,
+        string $numeric,
+        string $continent,
+        string $capital,
+        string $timezone,
+        string $phone,
+        array $alternate_names
+    ) {
         $countries = new Countries();
-        $this->assertSame(null, $countries->getFromAlpha2('not-real'));
+
+        $lookups = [
+            $countries->get($name),
+            $countries->get($alpha2),
+            $countries->get($alpha3),
+            $countries->get($numeric),
+            Country::fromArray($countries->get($name)->toArray()),
+            $countries->getFromCallback(function (Country $country) use ($name) {
+                return $country->usesName($name);
+            }),
+            $countries->getFromCallback(function (Country $country) use ($alpha2) {
+                return $country->getAlpha2() === $alpha2;
+            }),
+            $countries->getFromCallback(function (Country $country) use ($alpha3) {
+                return $country->getAlpha3() === $alpha3;
+            }),
+            $countries->getFromCallback(function (Country $country) use ($numeric) {
+                return $country->getNumeric() === $numeric;
+            })
+        ];
+
+        foreach ($lookups as $country) {
+            $this->assertSame($name, $country->getName());
+            $this->assertTrue($country->usesName($name));
+            $this->assertSame($alpha2, $country->getAlpha2());
+            $this->assertSame($alpha3, $country->getAlpha3());
+            $this->assertSame($numeric, $country->getNumeric());
+            $this->assertSame($phone, $country->getPhone());
+            $this->assertSame($continent, $country->getContinent());
+            $this->assertSame($capital, $country->getCapital());
+            $this->assertSame($timezone, $country->getTimezone());
+            $this->assertSame($alternate_names, array_intersect($alternate_names, $country->getAlternativeNames()));
+        }
     }
 
-    public function testGetFromAlpha3Null()
+    public function testGetFromCallbackNull()
     {
         $countries = new Countries();
-        $this->assertSame(null, $countries->getFromAlpha3('not-real'));
+        $fromCallback = $countries->getFromCallback(function (Country $country) {
+            return $country->getNumeric() === 'not-real';
+        });
+        $this->assertNull($fromCallback);
     }
 
-    public function testGetFromNameNull()
+    public function testGetNull()
     {
         $countries = new Countries();
-        $this->assertSame(null, $countries->getFromName('not-real'));
-    }
-
-    public function testGetFromNumericNull()
-    {
-        $countries = new Countries();
-        $this->assertSame(null, $countries->getFromNumeric('not-real'));
+        $this->assertSame(null, $countries->get('not-real'));
     }
 
     /**
@@ -274,13 +213,22 @@ class CountriesTest extends TestCase
     ) {
         $countries = new Countries();
 
-        $fromAlpha2 = $countries->getFromAlpha2($alpha2);
-        $this->assertSame($alpha2, $fromAlpha2->getAlpha2());
-        $this->assertTrue($fromAlpha2->usesName($name));
+        $lookups = [
+            $countries->get($name),
+            $countries->get($alpha2),
+            Country::fromArray($countries->get($name)->toArray()),
+            $countries->getFromCallback(function (Country $country) use ($name) {
+                return $country->usesName($name);
+            }),
+            $countries->getFromCallback(function (Country $country) use ($alpha2) {
+                return $country->getAlpha2() === $alpha2;
+            })
+        ];
 
-        $fromName = $countries->getFromName($name);
-        $this->assertSame($alpha2, $fromName->getAlpha2());
-        $this->assertTrue($fromName->usesName($name));
+        foreach ($lookups as $country) {
+            $this->assertSame($alpha2, $country->getAlpha2());
+            $this->assertTrue($country->usesName($name));
+        }
     }
 
     /**
@@ -301,29 +249,39 @@ class CountriesTest extends TestCase
 
         $numeric = str_pad($numeric, 3, '0', STR_PAD_LEFT);
 
-        $fromName = $countries->getFromName($name);
-        $this->assertSame($alpha2, $fromName->getAlpha2());
-        $this->assertSame($alpha3, $fromName->getAlpha3());
-        $this->assertSame($numeric, $fromName->getNumeric());
-        $this->assertTrue($fromName->usesName($name));
+        $lookups = [
+            $countries->get($name),
+            $countries->get($alpha2),
+            $countries->get($alpha3),
+            $countries->get($numeric),
+            Country::fromArray($countries->get($name)->toArray()),
+            $countries->getFromCallback(function (Country $country) use ($name) {
+                return $country->usesName($name);
+            }),
+            $countries->getFromCallback(function (Country $country) use ($alpha2) {
+                return $country->getAlpha2() === $alpha2;
+            }),
+            $countries->getFromCallback(function (Country $country) use ($alpha3) {
+                return $country->getAlpha3() === $alpha3;
+            }),
+            $countries->getFromCallback(function (Country $country) use ($numeric) {
+                return $country->getNumeric() === $numeric;
+            })
+        ];
 
-        $fromAlpha2 = $countries->getFromAlpha2($alpha2);
-        $this->assertSame($alpha2, $fromAlpha2->getAlpha2());
-        $this->assertSame($alpha3, $fromAlpha2->getAlpha3());
-        $this->assertSame($numeric, $fromAlpha2->getNumeric());
-        $this->assertTrue($fromAlpha2->usesName($name));
+        foreach ($lookups as $country) {
+            $this->assertSame($alpha2, $country->getAlpha2());
+            $this->assertSame($alpha3, $country->getAlpha3());
+            $this->assertSame($numeric, $country->getNumeric());
+            $this->assertTrue($country->usesName($name));
+        }
+    }
 
-        $fromAlpha3 = $countries->getFromAlpha3($alpha3);
-        $this->assertSame($alpha2, $fromAlpha3->getAlpha2());
-        $this->assertSame($alpha3, $fromAlpha3->getAlpha3());
-        $this->assertSame($numeric, $fromAlpha3->getNumeric());
-        $this->assertTrue($fromAlpha3->usesName($name));
-
-        $fromNumeric = $countries->getFromNumeric($numeric);
-        $this->assertSame($alpha2, $fromNumeric->getAlpha2());
-        $this->assertSame($alpha3, $fromNumeric->getAlpha3());
-        $this->assertSame($numeric, $fromNumeric->getNumeric());
-        $this->assertTrue($fromNumeric->usesName($name));
+    public function testIterable()
+    {
+        $countries = new Countries();
+        $this->assertIsIterable($countries);
+        $this->assertInstanceOf(ArrayIterator::class, $countries->getIterator());
     }
 
     public function testOffsetExists()
@@ -353,7 +311,7 @@ class CountriesTest extends TestCase
     {
         $countries = new Countries();
 
-        $this->expectException(\RuntimeException::class);
+        $this->expectException(RuntimeException::class);
         $countries['gb'] = 'anything';
     }
 
@@ -361,7 +319,15 @@ class CountriesTest extends TestCase
     {
         $countries = new Countries();
 
-        $this->expectException(\RuntimeException::class);
+        $this->expectException(RuntimeException::class);
         unset($countries['gb']);
+    }
+
+    public function testUsesNameFalse()
+    {
+        $countries = new Countries();
+        $country = $countries['gb'];
+        $this->assertSame('United Kingdom', $country->getName());
+        $this->assertFalse($country->usesName('not-real'));
     }
 }

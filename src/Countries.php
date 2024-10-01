@@ -4614,13 +4614,27 @@ class Countries implements ArrayAccess, IteratorAggregate
     protected $entries;
 
     /**
+     * Indexes to help with lookups
+     *
+     * @var array
+     */
+    protected $indexes = [];
+
+    /**
      * The constructor
      */
     public function __construct()
     {
-        $this->entries = array_map(function (array $data) {
-            return new Country($data['name'], $data['alpha2'], $data['alpha3'], $data['numeric'], $data['continent'], $data['capital'], $data['timezone'], $data['phone'], $data['alternate_names']);
-        }, Countries::$map);
+        $this->entries = [];
+        foreach (Countries::$map as $key => $data) {
+            foreach ($data['alternate_names'] as $name) {
+                $this->index($name, $key);
+            }
+            $this->index($data['alpha2'], $key);
+            $this->index($data['alpha3'], $key);
+            $this->index($data['numeric'], $key);
+            $this->entries[$key] = new Country($data['name'], $data['alpha2'], $data['alpha3'], $data['numeric'], $data['continent'], $data['capital'], $data['timezone'], $data['phone'], $data['alternate_names']);
+        }
     }
 
     /**
@@ -4632,53 +4646,7 @@ class Countries implements ArrayAccess, IteratorAggregate
      */
     public function get(string $input): ?Country
     {
-        return $this->getFromCallback(function (Country $country) use ($input) {
-            if ($country->usesName($input)) {
-                return true;
-            }
-
-            if (strcasecmp($input, $country->getAlpha2()) === 0) {
-                return true;
-            }
-
-            if (strcasecmp($input, $country->getAlpha3()) === 0) {
-                return true;
-            }
-
-            if (strcasecmp($input, $country->getNumeric()) === 0) {
-                return true;
-            }
-
-            return false;
-        });
-    }
-
-    /**
-     * Get a country using its iban alpha2 code
-     *
-     * @param string $alpha2
-     *
-     * @return Country|null
-     */
-    public function getFromAlpha2(string $alpha2): ?Country
-    {
-        return $this->getFromCallback(function (Country $country) use ($alpha2) {
-            return strcasecmp($alpha2, $country->getAlpha2()) === 0;
-        });
-    }
-
-    /**
-     * Get a country using its iban alpha3 code
-     *
-     * @param string $alpha3
-     *
-     * @return Country|null
-     */
-    public function getFromAlpha3(string $alpha3): ?Country
-    {
-        return $this->getFromCallback(function (Country $country) use ($alpha3) {
-            return strcasecmp($alpha3, $country->getAlpha3()) === 0;
-        });
+        return $this->entries[$this->index($input) ?? ''] ?? null;
     }
 
     /**
@@ -4692,37 +4660,6 @@ class Countries implements ArrayAccess, IteratorAggregate
     {
         foreach ($this as $country) {
             if ($callback($country) === true) {
-                return $country;
-            }
-        }
-        return null;
-    }
-
-    /**
-     * Get a country using its name
-     *
-     * @param string $name
-     *
-     * @return Country|null
-     */
-    public function getFromName(string $name): ?Country
-    {
-        return $this->getFromCallback(function (Country $country) use ($name) {
-            return $country->usesName($name);
-        });
-    }
-
-    /**
-     * Get a country using its iban numeric code
-     *
-     * @param string $numeric
-     *
-     * @return Country|null
-     */
-    public function getFromNumeric(string $numeric): ?Country
-    {
-        foreach ($this as $country) {
-            if (strcasecmp($numeric, $country->getNumeric()) === 0) {
                 return $country;
             }
         }
@@ -4783,5 +4720,23 @@ class Countries implements ArrayAccess, IteratorAggregate
     public function offsetUnset($offset)
     {
         throw new RuntimeException('Countries iterator is read-only');
+    }
+
+    /**
+     * Set or get an index key
+     *
+     * @param string $search
+     * @param string|null $key
+     *
+     * @return string|null
+     */
+    protected function index(string $search, ?string $key = null): ?string
+    {
+        $search = strtolower(trim($search));
+        if ($key !== null) {
+            $this->indexes[$search] = $key;
+            return $key;
+        }
+        return $this->indexes[$search] ?? null;
     }
 }

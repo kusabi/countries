@@ -99,7 +99,9 @@ class Country implements JsonSerializable
         $this->capital = $capital;
         $this->timezone = $timezone;
         $this->phone = $phone;
-        $this->alternate_names = $alternate_names;
+        $this->alternate_names = array_map(function (string $value) {
+            return mb_convert_encoding($value, 'UTF-8', 'UTF-8');
+        }, $alternate_names);
     }
 
     /**
@@ -241,9 +243,7 @@ class Country implements JsonSerializable
             'capital' => $this->capital,
             'timezone' => $this->timezone,
             'phone' => $this->phone,
-            'alternate_names' => array_map(function (string $value) {
-                return mb_convert_encoding($value, 'UTF-8', 'UTF-8');
-            }, $this->alternate_names),
+            'alternate_names' => $this->alternate_names,
         ];
     }
 

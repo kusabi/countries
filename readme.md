@@ -91,9 +91,6 @@ $countries = new \Kusabi\Countries\Countries();
 $uk = $countries['gb'];
 $uk = $countries['united kingdom'];
 $uk = $countries->get('gbr')
-$uk = $countries->getFromAlpha2('gb')
-$uk = $countries->getFromAlpha3('gbr')
-$uk = $countries->getFromNumeric('826')
 $uk = $countries->getFromCallback(function (\Kusabi\Countries\Country $country) {
     return $country->getPhone() === '44';
 });
