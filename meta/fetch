@@ -7,18 +7,18 @@ $fetcher = new Kusabi\Countries\Meta\RestCountries\Fetcher();
 $all = $fetcher->all();
 file_put_contents(__DIR__.'/data/rest-countries.json', json_encode($all, JSON_PRETTY_PRINT));
 
-//
-//$fetcher = new Kusabi\Countries\Meta\Iban\Fetcher();
-//$all = $fetcher->all();
-//file_put_contents(__DIR__.'/data/iban.json', json_encode($all, JSON_PRETTY_PRINT));
-//
-//
-//$fetcher = new Kusabi\Countries\Meta\Google\Fetcher();
-//$all = $fetcher->all();
-//file_put_contents(__DIR__.'/data/google.json', json_encode($all, JSON_PRETTY_PRINT));
-//
-//
-//$fetcher = new Kusabi\Countries\Meta\UkGovernment\Fetcher();
-//$all = $fetcher->all();
-//file_put_contents(__DIR__.'/data/uk-government.json', json_encode($all, JSON_PRETTY_PRINT));
+
+$fetcher = new Kusabi\Countries\Meta\Iban\Fetcher();
+$all = $fetcher->all();
+file_put_contents(__DIR__.'/data/iban.json', json_encode($all, JSON_PRETTY_PRINT));
+
+
+$fetcher = new Kusabi\Countries\Meta\Google\Fetcher();
+$all = $fetcher->all();
+file_put_contents(__DIR__.'/data/google.json', json_encode($all, JSON_PRETTY_PRINT));
+
+
+$fetcher = new Kusabi\Countries\Meta\UkGovernment\Fetcher();
+$all = $fetcher->all();
+file_put_contents(__DIR__.'/data/uk-government.json', json_encode($all, JSON_PRETTY_PRINT));
 
